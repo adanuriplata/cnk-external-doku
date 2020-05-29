@@ -8,8 +8,9 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Encuentra respuestas a tus dudas</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Sobre tu sitio web</>,
+    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/content-marketing.png',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -18,8 +19,9 @@ const features = [
     ),
   },
   {
-    title: <>Ayuda Conektica</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Sobre tu Tienda en linea</>,
+    // imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/vende.png',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -28,8 +30,9 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Sobre tus cuentas de Correo</>,
+    // imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/email-marketing.png',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -72,7 +75,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Ver información
             </Link>
           </div>
         </div>

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Base de conocimiento',
+  tagline: 'Tu que eres cliente de conektica encuentra toda la información que necesitas para usar nuesros productos',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -10,20 +10,22 @@ module.exports = {
     navbar: {
       title: 'Ayuda Conektica',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Base de conocimiento',
+        // src: 'img/logo.svg',
+        src: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/logo-mini.png',
       },
       links: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Sitio web',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Ecommerce', position: 'left'},
+        {to: 'blog', label: 'Correo electronico', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          label: 'Contacto',
           position: 'right',
         },
       ],
@@ -32,50 +34,50 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Guias',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Woocommerce',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Configuracion de correros',
               to: 'docs/doc2/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Nuestros Servicios',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Branding',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'Marketing digital',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'Twitter',
+              label: 'Ecommerce',
               href: 'https://twitter.com/docusaurus',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Más',
           items: [
             {
-              label: 'Blog',
+              label: 'Blog conektica',
               to: 'blog',
             },
             {
-              label: 'GitHub',
+              label: 'conektica.com',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Derechos Reservados © ${new Date().getFullYear()} Conektica, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
