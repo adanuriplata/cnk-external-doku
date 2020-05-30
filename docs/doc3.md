@@ -1,80 +1,93 @@
 ---
 id: doc3
-title: Introducción al WooCommerce Marketplace
-sidebar_label: Introducción al WooCommerce Marketplace
+title: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
+sidebar_label: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
 ---
-WooCommerce Marketplace permite a los desarrolladores vender extensiones útiles a los clientes de WooCommerce para mejorar sus tiendas.
+Esta guía cubre las pautas generales y las mejores prácticas a seguir con el fin de asegurar que su experiencia temática esté alineada con los estándares de la industria del comercio electrónico y el WooCommerce para proporcionar una gran experiencia de compra en línea, maximizar las ventas, asegurar la facilidad de uso, la integración perfecta y la fuerte adopción de UX.
 
-Estos puntos a tomar en cuenta son para que los desarrolladores entiendan el proceso de envío y se preparen para enviar extensiones potenciales para su revisión.
+Te recomendamos que revises las [mejores prácticas de UI para WordPress](https://developer.wordpress.org/themes/advanced-topics/ui-best-practices/) para asegurarte de que tu tema está alineado con los requisitos del tema de WordPress.
 
-### Conozca a sus futuros clientes
+Asegúrate de que tu tema se ajusta a una o más industrias actualmente disponibles en la [tienda de temas de WooCommerce](https://woocommerce.com/product-category/themes?_ga=2.155581563.1190825584.1590641380-539752008.1590641380). Es importante que el tema ofrezca suficiente originalidad y distintividad en su diseño, manteniéndolo familiar, para poder ser distinguido de otros temas en la tienda temática de WooCommerce. El tema debe evitar copiar los temas existentes en la tienda temática de WooCommerce o en otros mercados temáticos de WordPress. 
+
+## Diseño
 ***
 
-La gente recurre a WooCommerce para transformar su sitio de WordPress en una tienda de comercio electrónico. Cuando desean agregar funcionalidad compleja, compran extensiones de WooCommerce.com. En promedio, **las tiendas que ejecutan WooCommerce tienen 15 plugins, de los cuales seis son específicos de WooCommerce.** Datos de [WooCommerce Tracker](https://woocommerce.com/usage-tracking/?_ga=2.201838673.1190825584.1590641380-539752008.1590641380)
+El diseño de alta calidad es un aspecto importante de una tienda en línea, y eso es impulsado por el diseño del tema y el contenido. El diseño del tema debe ser simple, consistente, despejado, memorable, intuitivo, eficiente y funcional. Cuando se diseña un nuevo tema para WooCommerce se debe prestar especial atención: 
 
-Los clientes que compran a WooCommerce.com están dedicados a WordPress y el espíritu que viene con él **- código abierto, extensible, personalizable**.
+#### Layout
 
-Los datos WooCommerce.com muestran que los clientes son:
-- **Construir tiendas por sí mismos**: el 84% de los clientes están comprando extensiones para sus propias tiendas.
-- Venta de **múltiples tipos de productos** y **tipos de productos no tradicionales**: el 71% de los clientes vende productos físicos, y el 90% de los clientes venden productos no tradicionales como productos digitales, servicios, membresías o boletos. Los clientes suelen vender más de un tipo de producto.
-- Tomar **pagos de diversas maneras**, a menudo con múltiples opciones: El 65% de los clientes ofrecen una forma de pago que no es una compra en línea única, y los clientes ofrecen 1,5 tipos de métodos de pago en promedio.
-- **Se extienden a través de muchas verticales**, con un gran número en **ropa y apparel.**
-- **En todo el mundo**: la base de usuarios de WooCommerce se extiende de manera bastante uniforme por América del Norte, Europa y Asia. 
+El tema debería estar a la altura de los estándares de la industria en términos de jerarquía, flujo, equilibrio de contenido y espacio en blanco. 
 
-Los productos más exitosos de WooCommerce.com **satisfacen una clara necesidad de constructores o desarrolladores de tiendas.** Para conocer lo que los clientes necesitan de primera mano:
+Los autores del tema deben asegurarse de que las páginas de la tienda (tienda, página de producto, categorías, carrito, caja, página de perfil, etc.) encajen perfectamente con el tema ya que son el punto central de un tema de WooCommerce. 
 
-- Explora el [tablero de WooCommerce Ideas](https://ideas.woocommerce.com/forums/133476-woocommerce).
-- Manténgase al día con el blog [Develop WooCommerce](https://woocommerce.wordpress.com).
-- Unirse a la [comunidad Slack de WooCommerce](https://woocommerceslack.herokuapp.com).
-- Habla con los constructores de tiendas con los que interactúas.
+Se espera que el tema sea completamente funcional y optimizado para ser accedido en los tipos de dispositivos comunes como computadoras portátiles, tabletas y teléfonos inteligentes. 
 
-### Los tipos de productos que buscamos
+#### Tipografía
+
+El tema debe proporcionar emparejamientos de fuentes elegantes y legibles que promuevan una experiencia de lectura cómoda.
+
+Se deben emplear tamaños de fuente, anchos de línea y espaciado de línea consistentes y armoniosos en todas las páginas y tipos de dispositivos.
+
+La tipografía del tema debe consistir en un pequeño número de tipos de letra que se complementen entre sí, generalmente no más de dos. 
+
+Se utilizan las mayúsculas adecuadas, evitando todas las mayúsculas (con la excepción de algunos elementos de la interfaz de usuario como botones, tabulaciones, etc.).
+
+#### Iconografía
+
+Los iconos utilizados en el tema representan un significado directo de las acciones/situaciones que están representando y se utilizan de manera consistente en cuanto a la posición del tamaño y el color. 
+
+#### Color
+
+El tema debe seguir un esquema de color armonioso y consistente a través de los elementos de la UI y todas las páginas. El esquema de color debe consistir en un pequeño número de colores que contengan: 
+
+- Un color dominante primario/acentuado
+- Uno o dos colores secundarios que complementan el primario
+- Colores neutros (blanco, negro, gris)
+
+La paleta de colores utilizada en los componentes de texto y gráficos de la UI debe cumplir con el [nivel de conformidad WCAG AA](https://www.w3.org/TR/WCAG20/#conformance) o superior.
+
+#### Patrones
+
+El tema debe emplear un conjunto consistente de patrones que se utilizan a través de las páginas, como:
+
+- Navegación, barras laterales, pie de página
+- Bloques de contenido (títulos, párrafos, listas, detalles de productos, reseñas, apartado de imágenes, etc.)
+- Estructura de las formas y elementos (campos, desplegables, botones, etc.)
+- Tables
+- Lists
+- Notices
+
+## Accesibilidad 
+
+El tema debe cumplir con [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/) (WCAG). Cumplir al 100% con las WCAG 2.0 es un trabajo duro; cumplir con el nivel de conformidad AA como mínimo.
+
+Para obtener más información sobre la accesibilidad, consulte la [guía de inicio rápido de accesibilidad de WordPress](https://make.wordpress.org/accessibility/handbook/best-practices/quick-start-guide/).
+
+## Personalización
+
+Los temas tienen que depender del personalizador para cualquier tipo de configuración inicial. No se permiten flujos de embarque específicos. 
+
+Cualquier personalización que sea compatible con el tema, como opciones de diseño, características adicionales, opciones de bloque, etc., debe entregarse en el personalizador o en la configuración de bloque para los bloques que se incluyen en el tema. 
+
+Los temas no deben agruparse ni requerir la instalación de complementos/extensiones (o frameworks) adicionales que proporcionen opciones o funcionalidades adicionales. Para obtener más información sobre la personalización, consulte la [API de personalización de temas de WordPress](https://codex.wordpress.org/Theme_Customization_API). 
+
+En la activación, los temas deberían anular el flujo de activación del tema de WordPress llevando al usuario a otras páginas.
+
+## Marca
+
+El tema no debe contener ninguna marca o referencias a los autores del tema en lugares que interfieran con el funcionamiento normal de una tienda en línea. Los autores del tema pueden incluir enlaces a sus sitios web en el pie de página del tema. No se permiten los enlaces de afiliados. 
+
+La interfaz debe centrarse únicamente en la experiencia, no se permite el uso de avisos, banners, grandes logotipos o cualquier material promocional en la interfaz de administración. 
+
+## Demostraciones y contenido de la muestra
+
+Una vez presentado el tema, los autores deben proporcionar una forma de mostrar y probar el tema. El contenido de la muestra/demo debe abstenerse de utilizar gráficos/activos personalizados que no estarán presentes en los entregables para evitar la confusión de los comerciantes y las expectativas rotas (ejemplos: uso de logotipos, ilustraciones). Al crear un tema para un tema vertical específico, los autores deben considerar el uso de un contenido de muestra que se alinee con la vertical. 
+
+Todas las imágenes y el texto deben ser apropiados para todas las edades y para toda la familia. El autor del tema debe considerar el uso de imágenes que incluyan edades, nacionalidades, etc. El tema debe abstenerse de utilizar imágenes que parezcan "fotografías ya existentes".
+
+El tema debe ser distribuido y desprovisto de todas las licencias necesarias para activos como imágenes, fuentes, iconos, etc. 
+
 ***
-
-Estamos abiertos a cualquier producto que ayude a los constructores de tiendas a crear tiendas exitosas.
-
-Mientras piensas en qué presentar:
-
-- **Conozca lo que ofrecemos actualmente**. Navega por el Mercado WooCommerce y mira lo que ya está disponible. Preferimos los envíos que añaden una funcionalidad completamente nueva o que sirven a audiencias específicas de nuevas maneras.
-- **Conocer las categorías que están saturadas**. Es más probable que aceptemos propuestas en categorías en las que no tenemos muchas ofertas. Estas son: 
-    - Mejoras: Búsqueda y navegación
-    - Marketing: Social
-    - Envío: Inventario y cumplimiento
-    - Administración de la tienda: Punto de Venta y Contabilidad
-- **Piense cuidadosa y minuciosamente antes de enviar los productos en pagos, envíos, correo electrónico o impuestos.**
-    - Los pagos son nuestra categoría más popular y completa en WooCommerce.com. **Actualmente no estamos buscando nuevas extensiones de pago.**
-    - Tampoco buscamos soluciones adicionales en el envío, el correo electrónico o los impuestos.
-- **Considere a qué mercados geográficos quiere servir.** La comunidad WooCommerce es global, y los desarrolladores de los nichos de mercado a menudo crean productos más relevantes para su comunidad local. Buscamos específicamente servir mejor a países fuera de los Estados Unidos donde WooCommerce está creciendo rápidamente:
-
-    - Europa: España, Francia, Alemania, Países Bajos, Italia y Polonia
-    - América del Norte: Canadá y México
-    - Asia: India, Vietnam, Tailandia, Indonesia, Rusia e Irán
-    - América del Sur: Brasil
-    - África: Sudáfrica
-- **Resolver un problema para los constructores de tiendas.** Las extensiones más exitosas resuelven un problema que los constructores de tiendas enfrentan regularmente. La mejor manera de encontrar estos problemas es hablar con los constructores y desarrolladores de tiendas en la comunidad WooCommerce. Considera la posibilidad de unirte a WordPress o a una [reunión WooCommerce](https://woocommerce.com/meetups/?_ga=2.126246093.1190825584.1590641380-539752008.1590641380) en tu área!
-
-Además, las extensiones y los temas deben:
-- Adherirse a las [mejores prácticas de extensión](https://docs.woocommerce.com/document/create-a-plugin/), [los puntos a tomar en cuenta de experiencia de usuario](https://docs.woocommerce.com/document/user-experience-guidelines-ux/), [al diseño de temas y puntos a tomar en cuenta de experiencia de usuario](https://docs.woocommerce.com/document/woocommerce-marketplace-theme-design-and-user-experience-guidelines/), y [normas de codificación de los plugins de WordPress](https://codex.wordpress.org/Writing_a_Plugin).
-- Soporta los dos últimos lanzamientos importantes de WooCommerce y WordPress.
-- Soporta PHP 5.6 y superior.
-- Sigue las mejores prácticas de seguridad generalmente aceptadas.
-- Excluye los enlaces de spam, los enlaces de afiliados o los enlaces para aumentar las ventas de productos fuera del mercado de WooCommerce.
-
-### Creación de una cuenta de desarrollador
-***
-Para presentar una extensión para su revisión, los usuarios deben crear primero una cuenta de desarrollador.
-
-Crear una cuenta de desarrollador sólo requiere:
-- Registrando una cuenta en WooCommerce.com.
-- Añadiendo el nombre de tu negocio
-- Aceptando el Acuerdo de Desarrollo del Mercado.
-
-Empieza a [desarrollar en WooCommerce](https://woocommerce.com/develop-woocommerce/?_ga=2.191681642.1190825584.1590641380-539752008.1590641380).
-
-### Acuerdo de Desarrollo del Mercado
-***
-Todos los desarrolladores que venden en WooCommerce.com han aceptado nuestro [Acuerdo de Desarrollo del Mercado](https://woocommerce.com/marketplace-developer-agreement/?_ga=2.188101480.1190825584.1590641380-539752008.1590641380).
-
-Los desarrolladores que venden en el Mercado WooCommerce están de acuerdo con:
-
+## Links relevantes
+[Cómo conseguir ayuda](https://docs.woocommerce.com/document/how-to-get-help/)
 
