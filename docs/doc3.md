@@ -1,93 +1,109 @@
 ---
 id: doc3
-title: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
-sidebar_label: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
+title: La gestión de productos en el mercado de WooCommerce
+sidebar_label: La gestión de productos en el mercado de WooCommerce
 ---
-Esta guía cubre las pautas generales y las mejores prácticas a seguir con el fin de asegurar que su experiencia temática esté alineada con los estándares de la industria del comercio electrónico y el WooCommerce para proporcionar una gran experiencia de compra en línea, maximizar las ventas, asegurar la facilidad de uso, la integración perfecta y la fuerte adopción de UX.
+Los desarrolladores que venden en el Mercado WooCommerce pueden editar las páginas de los productos, acceder a información como datos de uso y ventas, además de administrar las revisiones de sus productos.
 
-Te recomendamos que revises las [mejores prácticas de UI para WordPress](https://developer.wordpress.org/themes/advanced-topics/ui-best-practices/) para asegurarte de que tu tema está alineado con los requisitos del tema de WordPress.
-
-Asegúrate de que tu tema se ajusta a una o más industrias actualmente disponibles en la [tienda de temas de WooCommerce](https://woocommerce.com/product-category/themes?_ga=2.155581563.1190825584.1590641380-539752008.1590641380). Es importante que el tema ofrezca suficiente originalidad y distintividad en su diseño, manteniéndolo familiar, para poder ser distinguido de otros temas en la tienda temática de WooCommerce. El tema debe evitar copiar los temas existentes en la tienda temática de WooCommerce o en otros mercados temáticos de WordPress. 
-
-## Diseño
+## Gestión de los productos
 ***
 
-El diseño de alta calidad es un aspecto importante de una tienda en línea, y eso es impulsado por el diseño del tema y el contenido. El diseño del tema debe ser simple, consistente, despejado, memorable, intuitivo, eficiente y funcional. Cuando se diseña un nuevo tema para WooCommerce se debe prestar especial atención: 
+La mayor parte del trabajo de gestión de productos se puede hacer desde la pantalla de **Todas las extensiones**. Para llegar allí:
 
-#### Layout
+- Acceda al **panel de control de vededores**
+- Ir a **Extensiones > Todas las extensiones**
+- Selecciona la extensión en la que quieres trabajar
 
-El tema debería estar a la altura de los estándares de la industria en términos de jerarquía, flujo, equilibrio de contenido y espacio en blanco. 
+Esto te llevará a la descripción del producto, que incluye:
 
-Los autores del tema deben asegurarse de que las páginas de la tienda (tienda, página de producto, categorías, carrito, caja, página de perfil, etc.) encajen perfectamente con el tema ya que son el punto central de un tema de WooCommerce. 
+- **El nombre:** El nombre del producto, tal como aparece en la página del producto. Ten en cuenta que esto puede ser diferente de la ficha del producto o de la URL.
+- **Suscripción de un solo sitio:** El precio base para una suscripción de un solo sitio del producto.
+- **Última actualización:** La fecha en que se subió la última versión y un enlace al registro de cambios.
+- **Categorías:** Las categorías en las que se encuentra el producto.
+- **Descripción corta:** El eslogan del producto, más sobre esto [aquí](https://docs.woocommerce.com/document/marketing-product-pages-writing/#product-card).
 
-Se espera que el tema sea completamente funcional y optimizado para ser accedido en los tipos de dispositivos comunes como computadoras portátiles, tabletas y teléfonos inteligentes. 
+### Aquí va una imagen
 
-#### Tipografía
+Desde allí, puedes ver información sobre el uso, subir una nueva versión o editar la página del producto.
 
-El tema debe proporcionar emparejamientos de fuentes elegantes y legibles que promuevan una experiencia de lectura cómoda.
+### Editar las páginas de productos
 
-Se deben emplear tamaños de fuente, anchos de línea y espaciado de línea consistentes y armoniosos en todas las páginas y tipos de dispositivos.
+Para **editar una página de producto**, selecciona Editar página de producto en la descripción del producto.
 
-La tipografía del tema debe consistir en un pequeño número de tipos de letra que se complementen entre sí, generalmente no más de dos. 
+### Aquí va una imagen
 
-Se utilizan las mayúsculas adecuadas, evitando todas las mayúsculas (con la excepción de algunos elementos de la interfaz de usuario como botones, tabulaciones, etc.).
+Para obtener más información sobre cómo sacar el máximo provecho de las páginas de sus productos, [lea los lineamientos para escribir contenido de marketing](https://docs.woocommerce.com/document/marketing-product-pages-writing/).
 
-#### Iconografía
+### Understanding product statistics
 
-Los iconos utilizados en el tema representan un significado directo de las acciones/situaciones que están representando y se utilizan de manera consistente en cuanto a la posición del tamaño y el color. 
+En el resumen del producto, la pestaña **Estadísticas** incluye información de uso para ayudar a los desarrolladores a saber qué versiones de las tecnologías pertinentes se utilizan con un producto determinado.
 
-#### Color
+### Aquí va una imagen
 
-El tema debe seguir un esquema de color armonioso y consistente a través de los elementos de la UI y todas las páginas. El esquema de color debe consistir en un pequeño número de colores que contengan: 
+Estas estadísticas provienen del WooCommerce Tracker y están basadas en tiendas que permiten el seguimiento del uso. Los desarrolladores pueden usar esta información para tomar decisiones sobre qué versiones de WordPress, WooCommerce y PHP soportar.
 
-- Un color dominante primario/acentuado
-- Uno o dos colores secundarios que complementan el primario
-- Colores neutros (blanco, negro, gris)
+### Subir nuevas versiones
 
-La paleta de colores utilizada en los componentes de texto y gráficos de la UI debe cumplir con el [nivel de conformidad WCAG AA](https://www.w3.org/TR/WCAG20/#conformance) o superior.
+Para subir una nueva versión, selecciona la pestaña **Versiones**. Verás todas las versiones que has subido anteriormente, incluyendo los aspectos destacados de cada versión.
 
-#### Patrones
+### Aquí va una imagen
 
-El tema debe emplear un conjunto consistente de patrones que se utilizan a través de las páginas, como:
+Selecciona **Agregar versión** para subir una versión actualizada:
 
-- Navegación, barras laterales, pie de página
-- Bloques de contenido (títulos, párrafos, listas, detalles de productos, reseñas, apartado de imágenes, etc.)
-- Estructura de las formas y elementos (campos, desplegables, botones, etc.)
-- Tables
-- Lists
-- Notices
+- **Selecciona el archivo .zip** que quieres subir desde tu ordenador
+- **Añade el número de versión**
+- Haga clic en **Enviar nueva versión**
 
-## Accesibilidad 
+Una vez enviado, haremos pruebas básicas en el archivo subido. Todos los Vendor Admins recibirán una notificación por correo electrónico durante el proceso, incluyendo:
 
-El tema debe cumplir con [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/) (WCAG). Cumplir al 100% con las WCAG 2.0 es un trabajo duro; cumplir con el nivel de conformidad AA como mínimo.
+- **Confirmación:** Los administradores de vendedores recibirán un correo electrónico cuando se envíe una nueva versión, confirmando que está en la cola. No se necesita ninguna acción aquí.
+- **Rechazado:** Si una versión falla en alguna parte de nuestras pruebas automatizadas, los administradores recibirán un correo electrónico informándoles, incluyendo el error específico. Los desarrolladores deben tratar de resolver el error y enviar una nueva versión cuando esté lista.
+- **En vivo:** Si una versión pasa las pruebas automatizadas, se desplegará automáticamente y se pondrá a disposición de los clientes. No es necesario realizar ninguna acción.
 
-Para obtener más información sobre la accesibilidad, consulte la [guía de inicio rápido de accesibilidad de WordPress](https://make.wordpress.org/accessibility/handbook/best-practices/quick-start-guide/).
+## Formatear el registro de cambios
 
-## Personalización
+Cuando se sube una versión, WooCommerce.com busca un formato específico para el registro de cambios. El nombre del archivo debe ser `changelog.txt` y debe tener el siguiente formato:
 
-Los temas tienen que depender del personalizador para cualquier tipo de configuración inicial. No se permiten flujos de embarque específicos. 
+### Aquí va una imagen
 
-Cualquier personalización que sea compatible con el tema, como opciones de diseño, características adicionales, opciones de bloque, etc., debe entregarse en el personalizador o en la configuración de bloque para los bloques que se incluyen en el tema. 
+En el formato de la fecha, el espacio entre el `-` y la palabra `versión` es muy importante colocarlo.
 
-Los temas no deben agruparse ni requerir la instalación de complementos/extensiones (o frameworks) adicionales que proporcionen opciones o funcionalidades adicionales. Para obtener más información sobre la personalización, consulte la [API de personalización de temas de WordPress](https://codex.wordpress.org/Theme_Customization_API). 
+#### Errores comunes
 
-En la activación, los temas deberían anular el flujo de activación del tema de WordPress llevando al usuario a otras páginas.
+Si una carga falla, hay algunos errores comunes que deberías comprobar primero.
 
-## Marca
+**El nombre del archivo:** WooCommerce.com busca un nombre específico para tu archivo .zip y la carpeta principal dentro de él. Verás el nombre esperado cuando intentes subir un producto:
 
-El tema no debe contener ninguna marca o referencias a los autores del tema en lugares que interfieran con el funcionamiento normal de una tienda en línea. Los autores del tema pueden incluir enlaces a sus sitios web en el pie de página del tema. No se permiten los enlaces de afiliados. 
+### Aquí va una imagen
 
-La interfaz debe centrarse únicamente en la experiencia, no se permite el uso de avisos, banners, grandes logotipos o cualquier material promocional en la interfaz de administración. 
+**Que un changelog este presente** - un archivo llamado changelog.txt debe estar presente para servir como un registro de lo que ha cambiado de versión a versión.
 
-## Demostraciones y contenido de la muestra
+El **formato changelog** - [más sobre cómo debería verse aquí]().
 
-Una vez presentado el tema, los autores deben proporcionar una forma de mostrar y probar el tema. El contenido de la muestra/demo debe abstenerse de utilizar gráficos/activos personalizados que no estarán presentes en los entregables para evitar la confusión de los comerciantes y las expectativas rotas (ejemplos: uso de logotipos, ilustraciones). Al crear un tema para un tema vertical específico, los autores deben considerar el uso de un contenido de muestra que se alinee con la vertical. 
+## Comprender la venta de productos
 
-Todas las imágenes y el texto deben ser apropiados para todas las edades y para toda la familia. El autor del tema debe considerar el uso de imágenes que incluyan edades, nacionalidades, etc. El tema debe abstenerse de utilizar imágenes que parezcan "fotografías ya existentes".
+Los vendedores tienen acceso a informes sobre el rendimiento de sus productos, incluyendo:
 
-El tema debe ser distribuido y desprovisto de todas las licencias necesarias para activos como imágenes, fuentes, iconos, etc. 
+- Ganancias: **Nuevas ventas**, **ventas de renovación** y cantidad de **reembolso**.
+- Comisiones: La **cantidad ganada por el Vendedor** de todas las ventas.
+- Suscripciones: Total de **suscripciones activas**, incluyendo las nuevas y las renovadas este mes, así como **la tasa de reembolso y la tasa de renovación.**
 
-***
+Para encontrar esta información, ingrese al **Tablero de Vendedor** y vaya a **Extensiones > Informe de Ventas.**
+
+### Aquí va una imagen
+
+Los datos están disponibles a partir de noviembre de 2017.
+
+## Viendo las reseñas
+
+Los clientes que han comprado un producto pueden dejar una calificación y revisión. Cuando hay un mínimo de 10 valoraciones, las reseñas se muestran en la página del producto, y las valoraciones son visibles en la página del producto, en la página de la categoría y en los resultados de la búsqueda. [Lea los puntos a tomar en cuenta sobre clasificaciones y reseñas](https://docs.woocommerce.com/document/ratings-and-reviews/).
+
+Tanto si son las revisiones pública o no, los Administradores de Ventas pueden ver las revisiones de sus propios productos accediendo al **Tablero de Vendedores** y luego yendo a **Extensiones > Revisiones**.
+
+### Aquí va una imagen
+
 ## Links relevantes
 [Cómo conseguir ayuda](https://docs.woocommerce.com/document/how-to-get-help/)
+
+
 
