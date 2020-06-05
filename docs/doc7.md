@@ -13,15 +13,15 @@ Usaremos una cuenta de correo electrónico de prueba 1p.web@conektica.com para m
 
 1. Abra los **Ajustes** de su dispositivo Android y toque el menú **Cuentas y Respaldo** (dependiendo del teléfono, este menú puede llamarse **Cuentas** o **Nube y Cuentas**): 
 
-![Primera Imagen]()
+![Primera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/1S.jpeg)
 
 2. Seleccione la pestaña **Cuentas**: 
 
-![Segunda Imagen]()
+![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/2S.jpeg)
 
 3. En la parte de abajo toque la opción **Agregar cuenta**: 
 
-![Tercera Imagen]()
+![Tercera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/3S.jpeg)
 
 Elija la cuenta de correo electrónico que desea configurar dependiendo de la aplicación de correo electrónico.
 
@@ -31,16 +31,16 @@ Para configurar el buzón de la aplicación de correo electrónico predeterminad
 
 1. Seleccione **Correo**:
 
-![Cuarta Imagen]()
+![Cuarta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/4S.jpeg)
 
 2.Introduzca su dirección de correo electrónico privada (1p.web@conektica.com, en nuestro ejemplo) y la contraseña correspondiente en los campos apropiados y haga clic en **Iniciar sesión**:
 
-![Quinta Imagen]()
+![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/6S.jpeg)
 
 3.Elegir el tipo de protocolo **IMAP** o **POP3**.
 Le recomendamos que seleccione **IMAP**:
 
-![Sexta Imagen]()
+![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/7S.jpeg)
 
 Si elige el protocolo **IMAP**, tendrá que indicar los siguientes detalles: 
 
@@ -53,7 +53,8 @@ Si elige el protocolo **IMAP**, tendrá que indicar los siguientes detalles:
 
 Haga clic en **Siguiente**:
 
-![Séptima Imagen]()
+![Séptima Imagen](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Android9.x.x/8S.jpeg)
+![Extra](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/9S.jpeg)
 
 Si elige el protocolo **POP3**, tendrá que indicar los siguientes detalles: 
 
@@ -77,7 +78,7 @@ Haga clic en **Siguiente**:
 **Nombre de usuario**: dirección de correo electrónico completa 
 **Contraseña**: contraseña para el buzón 
 
-![Novena Imagen]()
+![Novena Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/10S.jpeg)
 
 6.Haga clic en **Iniciar sesión** para terminar la configuración. 
 
@@ -90,15 +91,15 @@ Para configurar el buzón de correo en la aplicación de Gmail, sigue estos paso
 1.Elige **Personal (IMAP)** o **Personal (POP3)** según el tipo de protocolo que desees configurar. 
 Te recomendamos encarecidamente que selecciones **IMAP**:
 
-![Décima Imagen]()
+![Décima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/11S.jpeg)
 
 2.La siguiente pantalla le pedirá que introduzca su dirección de correo electrónico. Escriba su dirección de correo electrónico privada completa (1p.web@conektica.com en nuestro ejemplo): 
 
-![Imagen once]()
+![Imagen once](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/12S.jpeg)
 
 3. Una vez que esté listo, pulse **Siguiente** para pasar al siguiente paso. Deberá indicar una contraseña válida para el correo:
 
-![Imagen doce]()
+![Imagen doce](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/14S.jpeg)
 
 Indique la configuración del servidor entrante con los siguientes detalles: 
 
@@ -106,7 +107,7 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 **Contraseña**: contraseña para el correo
 **Servidor**: conektica.com 
 
-![Imagen trece]()
+![Imagen trece](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/15S.jpeg)
 
 4. De clic en **Siguiente** e indique la configuración de **Salida (SMTP)**: 
 
@@ -115,11 +116,11 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 **Contraseña:** contraseña para el correo 
 **Servidor:** conektica.com 
 
-![Imagen catorce]()
+![Imagen catorce](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/16S.jpeg)
 
 5.Una vez que esté listo, de clic en **Siguiente** para verificar la configuración de **SMTP** y terminar la configuración de la cuenta: 
 
-![Imagen quince]()
+![Imagen quince](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/17S.jpeg)
 
 6.Escriba el nombre de la cuenta para terminar la configuración: 
 
@@ -128,7 +129,7 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 
 Haga clic en **Siguiente** para terminar la configuración: 
 
-![Imagen dieciséis]()
+![Imagen dieciséis](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/18s.jpeg)
 
 Eso es todo !
 

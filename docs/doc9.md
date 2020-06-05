@@ -7,14 +7,14 @@ Para configurar tu cuenta de correo electrónico de Namecheap Private Email en t
 
 1. Localice su aplicación de **correo electrónico**:
 
-![Primera Imagen]()
+![Primera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/1Q.jpeg)
 
 Usaremos una cuenta de correo electrónico de prueba 1p.web@conektica.com para mostrarte qué hacer. 
 Antes de proceder a la configuración de la cuenta de correo electrónico, debe asegurarse de que ha [creado un correo](https://www.namecheap.com/support/knowledgebase/article.aspx/1049/2215/how-to-create-namecheap-private-email-mailbox/) para ser añadido. 
 
 2. Introduce tu **dirección de correo electrónico** y tu **contraseña**: 
 
-![Segunda Imagen]()
+![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/2Q.jpeg)
 
 3. Haga clic en **Siguiente** y seleccione el tipo de protocolo (**POP3 o IMAP**). 
 
@@ -25,11 +25,11 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 **Servidor IMAP**: mail.conektica.com 
 **Puerto**: utilice el puerto **143** para la conexión no SSL 
 
-![Tercera Imagen]()
+![Tercera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/4Q.jPeg)
 
 O el puerto **993** para la conexión SSL (puede ser seleccionado en el campo de **tipo seguro**):
 
-![Cuarta Imagen]()
+![Cuarta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/5Q.png)
 
 5. Haga clic en **Siguiente** para continuar. 
 
@@ -41,7 +41,7 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 
 También es posible elegir si se borra el correo electrónico del servidor cuando se borra de la Bandeja de entrada o no:
 
-![Quinta Imagen]()
+![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/5W.png)
 
 7. Haga clic en **Siguiente** para continuar. 
 
@@ -53,12 +53,12 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 
 Nota: la opción **Requerir inicio de sesión** debe estar **marcada**: 
 
-![Sexta Imagen]()
+![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/6Q.jpeg)
 
 O utilice el puerto **25 (26 alternativamente)** para la conexión no SSL. 
 Nota: la opción **Requerir inicio de sesión** debe estar **marcada**:
 
-![Séptima Imagen]()
+![Séptima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/7Q.jpeg)
 
 9. Haga clic en **Siguiente** para continuar. 
 
@@ -70,13 +70,13 @@ Nota: la opción **Requerir inicio de sesión** debe estar **marcada**:
 - Sincronización de los correos electrónicos para esta cuenta
 - Si descargar los archivos adjuntos cuando se conecta a la Wi-Fi o no
 
-![Octava Imagen]()
+![Octava Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/8Q.jpeg)
 
 11. Haga clic en **Siguiente** para continuar. 
 
 12. Puedes asignar un nombre a tu cuenta de correo electrónico de la siguiente manera: 
 
-![Novena Imagen]()
+![Novena Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/9Q.jpeg)
 
 13. Haga clic en Siguiente para terminar la configuración. 
 
