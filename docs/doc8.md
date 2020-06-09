@@ -10,17 +10,17 @@ Utilizaremos una cuenta de correo electrónico de prueba 1p.web@conektica.com.
 
 1. Para crear una nueva cuenta de correo electrónico, vaya a **Configuración de Windows** y haga clic en **Cuentas**: 
 
-![Primera imagen]()
+![Primera imagen](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Windows10/1C.png?raw=true)
 
 2. Ve a la sección de **cuentas de correo electrónico y aplicaciones** y haz clic en **Agregar una cuenta abajo de Correo electrónico, calendario y contactos**: 
 
-![Segunda Imagen]()
+![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/2C.png)
 
 3. En la ventana **Elegir una cuenta**, seleccione **Configuración avanzada** y haga clic en **Correo electrónico de Internet**: 
 
-![Tercer Imagen]()
+![Tercer Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/3C.png)
 
-![Cuarta Imagen]()
+![Cuarta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/4C.png)
 
 4. Introduzca los siguientes datos en los campos correspondientes:
 **Dirección de correo electrónico**: dirección de correo electrónico completa 
@@ -32,9 +32,9 @@ Utilizaremos una cuenta de correo electrónico de prueba 1p.web@conektica.com.
 Tipo de cuenta: IMAP4 o POP3 
 **Servidor de correo electrónico saliente (SMTP)**: conektica.com (el mismo para todas las suscripciones). 
 
-![Quinta Imagen]()
+![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/5C.png)
 
-![Sexta Imagen]()
+![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/6C.png)
 
 Se deben **seleccionar** las siguientes opciones:
 
@@ -43,7 +43,7 @@ Se deben **seleccionar** las siguientes opciones:
 - Requiere SSL para el correo electrónico entrante.
 - Requiere SSL para el correo electrónico saliente.
 
-![Séptima Imagen]()
+![Séptima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/7C.png)
 
 Una vez que haya terminado, haga clic en Iniciar sesión.
 
