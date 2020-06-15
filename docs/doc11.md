@@ -3,15 +3,17 @@ id: doc11
 title: Configuración de la cuenta de correo electrónico privada en Android 8.x.x
 sidebar_label: Android 8.x.x
 ---
-Este tutorial te ayudará a configurar tu cuenta de correo electrónico privada de Namecheap dentro de tu aplicación de correo electrónico Android.
+Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electrónico privada en Android 8.x.x
 
-Para configurar tu cuenta, sigue estos pasos:
+**NOTA**: En este artículo, usamos la dirección account@nctest.info como ejemplo. 
 
-1. Localiza **Ajustes** en la pantalla principal de tu teléfono Android y ve a la sección **Usuarios y cuentas**.
+Siga estos pasos para agregar una nueva cuenta de correo electrónico:
+
+1. Localice **Ajustes** en la pantalla principal de tu teléfono Android y vaya a la sección **Usuarios y cuentas**.
 
 ![Imagen uno](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_1.png)
 
-2. Toca en **Agregar cuenta** y selecciona **Correo**.
+2. De clic en **Agregar cuenta** y seleccione **Correo**.
 
 ![Imagen dos](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_2.png)
 
@@ -29,7 +31,7 @@ Haga clic en **Iniciar sesión**.
 
 **IMAP**, abreviatura de Internet Message Access Protocol (Protocolo de acceso a mensajes de Internet), está diseñado específicamente para eliminar cualquier limitación relacionada con POP3. IMAP le permite acceder a sus correos electrónicos en cualquier momento desde cualquier cliente, dispositivo o inicio de sesión de correo web, hasta que decida eliminarlos. También puede utilizar diferentes dispositivos y clientes de correo electrónico/correo web para acceder al mismo buzón de correo con el fin de comprobar, enviar y recibir correo electrónico, lo cual no está disponible con las conexiones POP3.
 
-Dicho esto, te recomendamos que selecciones **IMAP**: 
+Dicho esto, le recomendamos que seleccione **IMAP**: 
 
 ![Imagen cinco](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_5.jpg)
 
@@ -58,10 +60,10 @@ Haga clic en **Siguiente**.
 7. Introduzca la configuración del **servidor SMTP** de la siguiente manera:  
 
 Su **dirección de correo electrónico privado**, **nombre de usuario** y **contraseña** ya deben estar rellenados en los campos correspondientes.
-**Servidor SMTP**: mail.privateemail.com
-**Requiere registrarse**: debe ser comprobado
-**Puerto**: 465
-**Tipo de seguridad**: SSL/TLS
+- **Servidor SMTP**: mail.privateemail.com
+- **Requiere registrarse**: debe ser comprobado
+- **Puerto**: 465
+- **Tipo de seguridad**: SSL/TLS
 
 ![Imagen ocho](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_8.jpg)
 

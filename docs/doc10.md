@@ -3,11 +3,15 @@ id: doc10
 title: Configuración de la cuenta de correo electrónico privada en Android 7.x.x
 sidebar_label: Android 7.x.x
 ---
-Para configurar su dirección de [correo electrónico privado](https://www.namecheap.com/hosting/email/) en el dispositivo Android 7.x.x, siga estos pasos: 
+Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electrónico privada en Android 7.x.x
+
+**NOTA**: En este artículo, usamos la dirección account@nctest.info como ejemplo. 
+
+Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Abra la **aplicación Correo** en la pantalla principal de su dispositivo Android. 
 
-2. Ingrese **completa la dirección de correo electrónico privado** en el campo **Ingresar dirección de correo electrónico** y la contraseña de la misma en el campo **Ingresar contraseña**. Selecciona el protocolo IMAP o POP3 a continuación y pulsa **Iniciar sesión**:
+2. Ingrese **completa la dirección de correo electrónico privado** en el campo **Ingresar dirección de correo electrónico** y la contraseña de la misma en el campo **Ingresar contraseña**. Seleccione el protocolo IMAP o POP3 a continuación y pulsa **Iniciar sesión**:
 
 ![Imagen uno](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_1.png)
 
@@ -38,7 +42,7 @@ Para configurar su dirección de [correo electrónico privado](https://www.namec
 
 ![Imagen tres](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_8.png)
 
-Presiona **Hecho en** la esquina superior derecha para terminar la configuración.
+Presione **Hecho en** la esquina superior derecha para terminar la configuración.
 
 4. Para configurar la dirección de correo electrónico POP3, utilice los siguientes ajustes:
 
@@ -68,10 +72,10 @@ Presiona **Hecho en** la esquina superior derecha para terminar la configuració
 
 ![Imagen cinco](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_8.png)
 
-Presiona **Hecho** en la esquina superior derecha para terminar la configuración.
+Presione **Hecho** en la esquina superior derecha para terminar la configuración.
 
 5. Si la configuración se realiza con éxito, aparece la siguiente pantalla: 
 
 ![Imagen seis](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_6.png)
 
-Eso es todo !
+¡Buenas noticias! Ya está todo listo. 

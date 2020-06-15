@@ -3,14 +3,13 @@ id: doc6
 title: Configuración de la cuenta de correo electrónico privada en Outlook para iOS
 sidebar_label: Outlook para iOS
 ---
-Esta guía proporciona instrucciones sobre cómo configurar tu [buzón de correo electrónico privado Namecheap](https://www.namecheap.com/hosting/email/) en Outlook en un dispositivo iOS.
+Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electrónico privada en Outlook para iOS
 
-En caso de que tengas una suscripción Business o Business Office, puedes agregar tu buzón de correo electrónico privado como cuenta de Exchange (ActiveSync) [utilizando esta guía](https://www.namecheap.com/support/knowledgebase/article.aspx/9988/2171/how-to-configure-activesync-exchange-account-in-outlook-for-iphone).
+**NOTA**: En este artículo, usamos la dirección 1p.web@conektica.com como ejemplo. 
 
-NOTA: Antes de configurar tu cuenta de correo electrónico, comprueba que el nombre de tu dominio tenga los registros [DNS de correo electrónico privado](https://www.namecheap.com/support/knowledgebase/article.aspx/1337/2179/how-to-start-using-namecheap-private-email) correctos y que se haya [creado el buzón](https://www.namecheap.com/support/knowledgebase/article.aspx/1049/2215/how-to-create-namecheap-private-email-mailbox). 
+Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
-
-1. Abre Outlook en tu dispositivo. 
+1. Abra Outlook en su dispositivo. 
 
 ![Primera Imagen](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/OutlookiOS/1.1P.PNG?raw=true)
 
@@ -37,19 +36,19 @@ Ahora seleccione **Usar la configuración avanzada:**
 
 ![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/6P.PNG) 
 
-Ahora se tendrá que entrar en la configuración del IMAP: 
+Ahora tendrá que entrar en la configuración del IMAP: 
 
 **Servidor de correo entrante IMAP:**
 - **Nombre de host IMAP:** conektica.com:993 para SSL/TLS (o mail.conektica.com:143 para SSL).
 - **Nombre de usuario IMAP:** su cuenta de correo electrónico completa (por ejemplo, 1p.web@conektica.com).
-- **Contraseña IMAP:** la contraseña del buzón.
+- **Contraseña IMAP:** la contraseña del correo.
 
 ![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/7P.PNG)
 
 **Servidor de correo saliente SMTP:**
 - **Nombre de host SMTP:** conektica.com:465 para SSL/TLS (o mail.conektica.com:26 para SSL).
 - **Nombre de usuario SMTP:** su cuenta de correo electrónico completa (por ejemplo, 1p.web@conektica.com).
-- **Contraseña SMTP:** la contraseña del buzón de correo.
+- **Contraseña SMTP:** la contraseña del correo.
 
 Compruebe todos los ajustes y, a continuación, haga clic en **Iniciar sesión:**
 
@@ -59,7 +58,7 @@ Compruebe todos los ajustes y, a continuación, haga clic en **Iniciar sesión:*
 
 ![Octava Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/9P.PNG)
 
-Eso es todo !
+¡Buenas noticias! Ya está todo listo. 
 
 
 

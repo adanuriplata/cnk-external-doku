@@ -3,16 +3,19 @@ id: doc9
 title: Configuración de la cuenta de correo electrónico privada en Android 4.x.x
 sidebar_label: Android 4.x.x
 ---
-Para configurar tu cuenta de correo electrónico de Namecheap Private Email en tu dispositivo Android, realiza los siguientes pasos: 
+Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electrónico privada en Android 4.x.x
+
+**NOTA**: En este artículo, usamos la dirección 1p.web@conektica.com como ejemplo. 
+
+Siga estos pasos para agregar una nueva cuenta de correo electrónico:
+
 
 1. Localice su aplicación de **correo electrónico**:
 
 ![Primera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/1Q.jpeg)
 
-Usaremos una cuenta de correo electrónico de prueba 1p.web@conektica.com para mostrarte qué hacer. 
-Antes de proceder a la configuración de la cuenta de correo electrónico, debe asegurarse de que ha [creado un correo](https://www.namecheap.com/support/knowledgebase/article.aspx/1049/2215/how-to-create-namecheap-private-email-mailbox/) para ser añadido. 
 
-2. Introduce tu **dirección de correo electrónico** y tu **contraseña**: 
+2. Introduzca su **dirección de correo electrónico** y tu **contraseña**: 
 
 ![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/2Q.jpeg)
 
@@ -22,22 +25,26 @@ Antes de proceder a la configuración de la cuenta de correo electrónico, debe 
 Deberá indicar los siguientes campos: 
 
 Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en los campos correspondientes. 
+
 **Servidor IMAP**: mail.conektica.com 
-**Puerto**: utilice el puerto **143** para la conexión no SSL 
+
+**Puerto**: utilice el puerto **143** para la conexión SSL 
 
 ![Tercera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/4Q.jPeg)
 
-O el puerto **993** para la conexión SSL (puede ser seleccionado en el campo de **tipo seguro**):
+O el puerto **993** para la conexión SSL/TLS (puede ser seleccionado en el campo de **tipo de seguridad**):
 
-![Cuarta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/5Q.png)
+![Cuarta Imagen]()
 
 5. Haga clic en **Siguiente** para continuar. 
 
 6. Indique los siguientes campos para configurar la cuenta POP3: 
 
 Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en los campos correspondientes. 
-**Servidor POP3**: mail.privateemail.com 
-**Puerto**: usar el puerto 995 con conexión SSL 
+
+**Servidor POP3**: mail.conektica.com 
+
+**Puerto**: usar el puerto 995 con conexión SSL/TLS 
 
 También es posible elegir si se borra el correo electrónico del servidor cuando se borra de la Bandeja de entrada o no:
 
@@ -48,15 +55,17 @@ También es posible elegir si se borra el correo electrónico del servidor cuand
 8. Indique la configuración del **Servidor de salida**: 
 
 Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en los campos correspondientes. 
-**Servidor SMTP**: mail.privateemail.com 
-**Puerto**: 465 para conexión SSL (puede seleccionarse en el campo de tipo seguro) 
 
-Nota: la opción **Requerir inicio de sesión** debe estar **marcada**: 
+**Servidor SMTP**: mail.conektica.com 
+
+**Puerto**: 465 para conexión SSL/TLS (puede seleccionarse en el campo de tipo seguro) 
+
+Nota: la opción **Requiere inicio de sesión** debe estar **marcada**: 
 
 ![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/6Q.jpeg)
 
-O utilice el puerto **25 (26 alternativamente)** para la conexión no SSL. 
-Nota: la opción **Requerir inicio de sesión** debe estar **marcada**:
+O utilice el puerto **25 (26 alternativamente)** para la conexión SSL. 
+Nota: la opción **Requiere inicio de sesión** debe estar **marcada**:
 
 ![Séptima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/7Q.jpeg)
 
@@ -64,20 +73,19 @@ Nota: la opción **Requerir inicio de sesión** debe estar **marcada**:
 
 10. Podrá indicar los siguientes ajustes: 
 
-- Frecuencia de verificación de la bandeja de entrada
-- Si configurar esta cuenta de correo electrónico como predeterminada o no
-- Notificaciones cuando llega el correo electrónico
-- Sincronización de los correos electrónicos para esta cuenta
-- Si descargar los archivos adjuntos cuando se conecta a la Wi-Fi o no
+- Enviar mensaje de email desde esta cuenta de forma predeterminada
+- Notificarme al recibir el email
+- Sincronizar email desde esta cuenta
+- Desc datos adjuntos autom cuando esté conectado a una red Wi-Fi
 
 ![Octava Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/8Q.jpeg)
 
 11. Haga clic en **Siguiente** para continuar. 
 
-12. Puedes asignar un nombre a tu cuenta de correo electrónico de la siguiente manera: 
+12. Puede asignar un nombre a su cuenta de correo electrónico de la siguiente manera: 
 
 ![Novena Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/9Q.jpeg)
 
 13. Haga clic en Siguiente para terminar la configuración. 
 
-Eso es todo !
+¡Buenas noticias! Ya está todo listo. 
