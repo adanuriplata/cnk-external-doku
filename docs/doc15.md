@@ -71,7 +71,7 @@ Haga clic en **OK** >> **Siguiente**
 
 6. En caso de que todos los ajustes sean correctos, recibirá el siguiente mensaje:
 
-![Imagen 8](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_12.png)
+![Imagen 9](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_12.png)
 
 ¡Buenas noticias! Ya está todo listo. 
 

@@ -11,26 +11,26 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Seleccione **Configuración** en la pantalla de inicio de su iPhone: 
 
-![Imagen uno]()
+![Imagen 1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/iPhone/G1.jpeg)
 
 2. Seleccione **Correo, Contactos, Calendarios** y haga clic en **Agregar cuenta**: 
 
-![Imagen dos](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email1.PNG)
+![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email1.PNG)
 
-![Imagen tres](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email2.PNG)
+![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email2.PNG)
 
 3. Seleccione **Otro** en la lista que aparece:
 
-![Imagen cuatro](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email3.PNG)
+![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/iPhone/G4.jpeg)
 
 4. Seleccione **Añadir cuenta de correo**. En el menú **Nueva cuenta**, deberá especificar los siguientes registros: 
 
 - **Nombre** - su nombre (aparecerá como nombre del remitente) 
 - **Correo** - su dirección de correo electrónico completa 
 - **Contraseña** - la contraseña para esta dirección de correo electrónico 
-- **Descripción** - te permite especificar cualquier descripción (te sugerimos que uses tu dirección de correo electrónico)
+- **Descripción** - le permite especificar cualquier descripción (le sugerimos que use su dirección de correo electrónico)
 
-![Imagen cinco]()
+![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email6.PNG)
 
 Haga clic en **Siguiente**. 
 
@@ -45,58 +45,58 @@ Haga clic en **Siguiente**.
 
 En los campos correspondientes al **servidor correo entrante** y al **servidor correo saliente**, indique los siguientes parámetros: 
 
-![Imagen seis]()
+![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email7.PNG)
 
-![Imagen siete]()
+![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email8.PNG)
 
 Haga clic en **Siguiente**. 
 
 7. Si utiliza **IMAP**, puede habilitar los siguientes servicios: 
 
-![Imagen ocho]()
+![Imagen 8](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/iPhone/G7.jpeg)
 
 Haga clic en **Guardar** y espere mientras el sistema completa las comprobaciones necesarias. 
 
 8. Cuando las comprobaciones hayan terminado, se le redirigirá a la pantalla **Correo, Contactos, Calendarios**. Elija su cuenta recién creada allí: 
 
-![Imagen nueve]()
+![Imagen 9](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email10.PNG)
 
-![Imagen diez]()
+![Imagen 10](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email11.PNG)
 
 9. Desplácese hacia abajo y seleccione **Avanzado**:
 
-![Imagen once]()
+![Imagen 11](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email12.PNG)
 
 10. Aquí puede elegir configuraciones adicionales para **IMAP** o **POP3**. 
 
 Si configura la conexión **IMAP**, deberá utilizar el puerto **993 (con SSL)** o el puerto **143 (sin SSL)**. 
 Configura el **Prefijo de ruta IMAP** en **INBOX**:
 
-![Imagen doce]()
+![Imagen 12](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email13.PNG)
 
 o
 
-![Imagen trece]()
+![Imagen 13](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email14.PNG)
 
 Si eligió **POP3**, necesita usar el puerto **995 (con SSL)**: 
 
-![Imagen catorce]()
+![Imagen 14](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email15.PNG)
 
 o
 
-![Imagen quince](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email16.PNG)
+![Imagen 15](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email16.PNG)
 
 11. Para establecer configuraciones adicionales para el servidor de salida, deberá volver al menú anterior y luego ir a **Servidor de correo saliente** haciendo clic en el nombre del servidor: 
 
-![Imagen dieciseis](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email17.PNG)
+![Imagen 16](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email17.PNG)
 
 12. Para el servidor de salida (SMTP), seleccione el puerto **465 (con SSL)** o el puerto **587 (sin SSL)**:
 
-![Imagen diecisiete](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email18.PNG)
+![Imagen 17](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email18.PNG)
 
 o 
 
-![](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email19.PNG)
+![Imagen 18](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/iphone_email19.PNG)
 
 Una vez que se verifiquen los ajustes, su cuenta estará activa y lista para ser utilizada. 
 Para probar su nueva cuenta de correo electrónico, vaya a **Mensajes** e intente enviar y recibir correos electrónicos. 

@@ -11,17 +11,17 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Para crear una nueva cuenta de correo electrónico, vaya a **Configuración de Windows** y haga clic en **Cuentas**: 
 
-![Primera imagen](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Windows10/1C.png?raw=true)
+![Imagen 1](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Windows10/1C.png?raw=true)
 
 2. Vaya a la sección de **cuentas de correo electrónico y aplicaciones** y haga clic en **Agregar una cuenta abajo de "Cuentas que usan el correo electrónico, el calendario y los contactos"**: 
 
-![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/2C.png)
+![Imagen 2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/2C.png)
 
 3. En la ventana **Agregar cuenta**, seleccione **Configuración avanzada** y haga clic en **Correo electrónico de Internet**: 
 
-![Tercer Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/3C.png)
+![Imagen 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/3C.png)
 
-![Cuarta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/4C.png)
+![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/4C.png)
 
 4. Introduzca los siguientes datos en los campos correspondientes:
 
@@ -40,9 +40,9 @@ Tipo de cuenta: IMAP4 o POP3
 
 **Servidor de correo electrónico saliente (SMTP)**: conektica.com. 
 
-![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/5C.png)
+![Imagen 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/5C.png)
 
-![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/6C.png)
+![Imagen 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/6C.png)
 
 Se deben **seleccionar** las siguientes opciones:
 
@@ -51,7 +51,7 @@ Se deben **seleccionar** las siguientes opciones:
 - Requerir SSL para el correo electrónico entrante.
 - Requerir SSL para el correo electrónico saliente.
 
-![Séptima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/7C.png)
+![Imagen 7](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/7C.png)
 
 Una vez que haya terminado, haga clic en Iniciar sesión.
 

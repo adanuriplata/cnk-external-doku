@@ -12,12 +12,12 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Localice su aplicación de **correo electrónico**:
 
-![Primera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/1Q.jpeg)
+![Imagen 1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/1Q.jpeg)
 
 
 2. Introduzca su **dirección de correo electrónico** y tu **contraseña**: 
 
-![Segunda Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/2Q.jpeg)
+![Imagen 2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/2Q.jpeg)
 
 3. Haga clic en **Siguiente** y seleccione el tipo de protocolo (**POP3 o IMAP**). 
 
@@ -30,11 +30,11 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 
 **Puerto**: utilice el puerto **143** para la conexión SSL 
 
-![Tercera Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/4Q.jPeg)
+![Imagen 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/Extra1.png)
 
 O el puerto **993** para la conexión SSL/TLS (puede ser seleccionado en el campo de **tipo de seguridad**):
 
-![Cuarta Imagen]()
+![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/Extra2.png)
 
 5. Haga clic en **Siguiente** para continuar. 
 
@@ -48,7 +48,7 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 
 También es posible elegir si se borra el correo electrónico del servidor cuando se borra de la Bandeja de entrada o no:
 
-![Quinta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/5W.png)
+![Imagen 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/5W.png)
 
 7. Haga clic en **Siguiente** para continuar. 
 
@@ -62,12 +62,12 @@ Su **nombre de usuario** y su **contraseña** ya deben haber sido rellenados en 
 
 Nota: la opción **Requiere inicio de sesión** debe estar **marcada**: 
 
-![Sexta Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/6Q.jpeg)
+![Imagen 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/6Q.jpeg)
 
 O utilice el puerto **25 (26 alternativamente)** para la conexión SSL. 
 Nota: la opción **Requiere inicio de sesión** debe estar **marcada**:
 
-![Séptima Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/7Q.jpeg)
+![Imagen 7](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/7Q.jpeg)
 
 9. Haga clic en **Siguiente** para continuar. 
 
@@ -78,13 +78,13 @@ Nota: la opción **Requiere inicio de sesión** debe estar **marcada**:
 - Sincronizar email desde esta cuenta
 - Desc datos adjuntos autom cuando esté conectado a una red Wi-Fi
 
-![Octava Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/8Q.jpeg)
+![Imagen 8](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/8Q.jpeg)
 
 11. Haga clic en **Siguiente** para continuar. 
 
 12. Puede asignar un nombre a su cuenta de correo electrónico de la siguiente manera: 
 
-![Novena Imagen](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/9Q.jpeg)
+![Imagen 9](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android4.x.x/9Q.jpeg)
 
 13. Haga clic en Siguiente para terminar la configuración. 
 
