@@ -11,27 +11,50 @@ Siga estos pasos:
 
 ![Imagen 1](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/WooCommerce/WP1.png?raw=true)
 
-**NOTA:** en este ejemplo en la parte superior se van a tener diferentes celdas con los títulos: 
+En este ejemplo en la parte superior se van a tener diferentes celdas con los títulos: 
 
-- **Categories:** Son las categorías a las cuales pertenece el producto
+**Categories**
 
-- **Brand:** La marca del producto
+Son las categorías a las cuales pertenece el producto
 
-- **SKU:** Número de identificación de el producto
 
-- **Name:** Nombre final del producto visible al público
+**Brand**
 
-- **Description:** Descripción larga del producto
+La marca del producto
 
-- **Short Description:** Descripción corta que se va a mostrar a un lado de los productos
+**SKU**
 
-- **Images:** La URL de la imagen del producto, es importante poner el URL completo de la imagen y respetar el dominio 
+dichos números no deben repetirse
 
-- **Attribute 1 name:** Nombre del atributo del producto
+**Name**
 
-- **Attribute 1 value(s):** Valor de atributo del producto 
+Nombre final del producto visible al público
 
-- **Price:** El precio del producto, por defecto WooCommerce agrega el simbolo **$**
+**Description**
+
+Descripción larga del producto
+
+**Short Description**
+
+Descripción corta que se va a mostrar a un lado de los productos
+
+**Images**
+
+La URL de la imagen del producto, es importante poner el URL completo de la imagen y respetar el dominio. Se recomienda nombrar a la imagen con su correspondiente SKU
+
+**Attribute 1 name**
+
+Nombre del atributo del producto
+
+**Attribute 1 value(s)**
+
+Valor de atributo del producto 
+
+**Price**
+
+El precio del producto, por defecto WooCommerce agrega el simbolo **$**
+
+**Imágenes con URL**
 
 **NOTA:** Para obtener el URL de la imagen puede dar clic en **Medios** y seleccionar la imagen de la cual quiera saber el URL y del lado inferior derecho aparecerá el URL 
 
@@ -96,6 +119,21 @@ Siga estos pasos:
 14. Para comprobar que los prooductos fueron importados correctamente vaya a el apartado **Productos**
 
 ![Imagen 15](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/WP16.png) 
+
+**Video Tutorial General**
+
+<iframe src="https://player.vimeo.com/video/430499151" width="640" height="343" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+**Video Tutorial para documento CSV**
+
+
+
+**Video Tutorial para las imagenes utilizadas**
+
+
+
+
+
 
 ¡Buenas noticias! Ya está todo listo. 
 
