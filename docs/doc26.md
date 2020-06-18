@@ -56,6 +56,27 @@ El precio del producto, por defecto WooCommerce agrega el simbolo **$**
 
 **Imágenes con URL**
 
+1. Buscar TinyPNG y abrir la liga que se señala en la siguiente imágen
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO1.png)
+
+2. Seleccionar las imágenes que desea comprimir
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO2.png)
+
+3. Arrastrar las imagenes hacia el recuadro **Drop your .png or .jpg file**
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO3.png)
+
+4. Una vez que se haya completado el proceso dar clic en **Download all**
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO4.png)
+
+5. Un archivo .zip se descargará automáticamente, una vez ahí debe sar clic derecho y seleccionar **Extraer aquí**
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO5.png)
+
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO6.png)
+
+5. A continuación debe seleccionar las imágenes que desea utilizar en su archivo CSV 
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO7.png)
+
+
 **NOTA:** Para obtener el URL de la imagen puede dar clic en **Medios** y seleccionar la imagen de la cual quiera saber el URL y del lado inferior derecho aparecerá el URL 
 
 ![Imagen extra1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/Extra1.png)
@@ -116,6 +137,8 @@ El precio del producto, por defecto WooCommerce agrega el simbolo **$**
 
 ![Imagen 15](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/WP15.png)
 
+![Imagen 15.1](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/WooCommerce1/Importaci%C3%B3n.png?raw=true)
+
 14. Para comprobar que los prooductos fueron importados correctamente vaya a el apartado **Productos**
 
 ![Imagen 15](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/WP16.png) 
@@ -126,9 +149,11 @@ El precio del producto, por defecto WooCommerce agrega el simbolo **$**
 
 **Video Tutorial para documento CSV**
 
+<iframe src="https://player.vimeo.com/video/430535208" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+**Video Tutorial para las optimizar imagenes en archivo CSV**
 
-**Video Tutorial para las imagenes utilizadas**
+<iframe src="https://player.vimeo.com/video/430533447" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
