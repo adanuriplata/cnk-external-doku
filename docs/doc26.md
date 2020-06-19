@@ -13,75 +13,97 @@ Siga estos pasos:
 
 En este ejemplo en la parte superior se van a tener diferentes celdas con los títulos: 
 
-**Categories**
+**Categories: **Son las categorías a las cuales pertenece el producto, por ejemlo:
 
-Son las categorías a las cuales pertenece el producto
+- Subcategoría dentro de una categoría 
+
+![Images](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/WooCommerce2/Y1.png?raw=true)
+
+- Combinación de categorías separadas por una coma sin subcategorías
+
+![Images](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/WooCommerce2/Y2.png?raw=true)
+
+- Combinación de categorías y subcategorías dentro del mismo producto
+
+![Images](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/WooCommerce2/Y3.png?raw=true)
 
 
-**Brand**
+**Brand:** La marca del producto
 
-La marca del producto
+**SKU:** Número identificador del producto, dichos números no deben repetirse
 
-**SKU**
+**Name:** Nombre final del producto visible al público
 
-dichos números no deben repetirse
+**Description:** Descripción larga del producto
 
-**Name**
+**Short Description:** Descripción corta que se va a mostrar a un lado de los productos
 
-Nombre final del producto visible al público
+**Images:** Se recomienda nombrar a la imagen de igual forma que su correspondiente SKU
 
-**Description**
+![Images](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/WooCommerce2/Y4.png?raw=true)
 
-Descripción larga del producto
+**Attribute 1 name:** Nombre del atributo del producto
 
-**Short Description**
+**Attribute 1 value(s):** Valor de atributo del producto solo o separado por una coma
 
-Descripción corta que se va a mostrar a un lado de los productos
+![Images](https://raw.githubusercontent.com/Conektica/cnk-external-doku/master/static/img/WooCommerce2/Y5.png)
 
-**Images**
+**Price:** El precio del producto, por defecto WooCommerce agrega el signo **$**
 
-La URL de la imagen del producto, es importante poner el URL completo de la imagen y respetar el dominio. Se recomienda nombrar a la imagen con su correspondiente SKU
+**Imágenes con URL:** 
 
-**Attribute 1 name**
+A continuación se hace una explicación de como optimizar las imágenes que utilizará:
 
-Nombre del atributo del producto
-
-**Attribute 1 value(s)**
-
-Valor de atributo del producto 
-
-**Price**
-
-El precio del producto, por defecto WooCommerce agrega el simbolo **$**
-
-**Imágenes con URL**
-
-1. Buscar TinyPNG y abrir la liga que se señala en la siguiente imágen
+Buscar TinyPNG y abrir la liga que se señala en la siguiente imagen
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO1.png)
 
-2. Seleccionar las imágenes que desea comprimir
+Seleccionar las imágenes que desea comprimir
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO2.png)
 
-3. Arrastrar las imagenes hacia el recuadro **Drop your .png or .jpg file**
+Arrastrar las imágenes hacia el recuadro **Drop your .png or .jpg file**
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO3.png)
 
-4. Una vez que se haya completado el proceso dar clic en **Download all**
+Una vez que se haya completado el proceso dar clic en **Download all**
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO4.png)
 
-5. Un archivo .zip se descargará automáticamente, una vez ahí debe sar clic derecho y seleccionar **Extraer aquí**
+Un archivo .zip se descargará automáticamente, una vez ahí debe dar clic derecho y seleccionar **Extraer aquí**
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO5.png)
 
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO6.png)
 
-5. A continuación debe seleccionar las imágenes que desea utilizar en su archivo CSV 
+Debe seleccionar las imágenes que desea utilizar en su archivo CSV 
 ![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO7.png)
 
+Arrastre las imágenes hacia el panel **Media de WordPress**
 
-**NOTA:** Para obtener el URL de la imagen puede dar clic en **Medios** y seleccionar la imagen de la cual quiera saber el URL y del lado inferior derecho aparecerá el URL 
+![TinyPNG](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO8.png)
+
+**Una vez que tenga sus imágenes cargadas debe continuar a colocar el URL en el documento CSV**
+
+Para obtener el URL de la imagen puede dar clic en **Medios** y seleccionar la imagen de la cual quiera saber el URL y del lado inferior derecho aparecerá el URL 
 
 ![Imagen extra1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/Extra1.png)
 
 ![Imagen extra2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/Extra2.png)
+
+Copie el URL con todos los directorios hasta la última diagonal omitiendo el SKU de la imagen
+
+![Imagen extra 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO9.png)
+
+En **Imágenes con URL** va a utilizar la función =CONCATENAR(URL, SKU) o si tiene configuración en inglés =CONCATENATE(URL, SKU), solo para la primera imagen.
+
+![Imagen extra 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO10.png)
+
+Una vez que se aplico la función a la primera celda va a seleccionarla y desplazar hacia abajo dependiendo de el número de imágenes que quiera con su URL 
+
+![Imagen extra 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO11.png)
+
+**NOTA:** En caso de que quiera dos imágenes para un mismo producto realice el mismo procedimiento con los URL separados por una **,**
+
+![Imagen extra 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce1/CO12.png)
+
+
+** Listo sus imágenes están listas para utilizarlas ! Puede continuar con el tutorial **
 
 2. Una vez que tiene listo su archivo CSV se va a dirigir a **Archivo >> Guardar como** 
 
@@ -139,7 +161,7 @@ El precio del producto, por defecto WooCommerce agrega el simbolo **$**
 
 ![Imagen 15.1](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/WooCommerce1/Importaci%C3%B3n.png?raw=true)
 
-14. Para comprobar que los prooductos fueron importados correctamente vaya a el apartado **Productos**
+14. Para comprobar que los productos fueron importados correctamente vaya a el apartado **Productos**
 
 ![Imagen 15](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/WooCommerce/WP16.png) 
 
@@ -151,13 +173,9 @@ El precio del producto, por defecto WooCommerce agrega el simbolo **$**
 
 <iframe src="https://player.vimeo.com/video/430535208" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-**Video Tutorial para las optimizar imagenes en archivo CSV**
+**Video Tutorial para optimizar imágenes a utilizar en archivo CSV**
 
 <iframe src="https://player.vimeo.com/video/430533447" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-
-
 
 
 ¡Buenas noticias! Ya está todo listo. 
