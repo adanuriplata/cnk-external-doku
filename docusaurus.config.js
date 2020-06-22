@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Base de conocimiento',
   tagline: 'Tu que eres cliente de conektica encuentra toda la información que necesitas para usar nuesros productos',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://conektica.github.io.',
+  baseUrl: '/cnk-external-doku',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'conektica', // Usually your GitHub org/user name.
+  projectName: 'cnk-external-doku', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Ayuda Conektica',
