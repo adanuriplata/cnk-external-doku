@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{144:function(a){a.exports=JSON.parse('{"allTagsPath":"/cnk-external-doku/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/cnk-external-doku/blog/tags/hola"}')}}]);
