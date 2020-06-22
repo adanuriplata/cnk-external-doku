@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Base de conocimiento',
   tagline: 'Tu que eres cliente de conektica encuentra toda la información que necesitas para usar nuesros productos',
-  url: 'https://conektica.github.io.',
+  url: 'https://conektica.github.io',
   baseUrl: '/cnk-external-doku',
   favicon: 'img/favicon.ico',
   organizationName: 'conektica', // Usually your GitHub org/user name.
