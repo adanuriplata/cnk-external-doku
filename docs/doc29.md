@@ -13,11 +13,11 @@ Todos los usuarios que se registran son almacenados en **Usuarios**.
 
 **Suscriptor:** registrados por medio de redes sociales.
 
-![Imagen 6]()
+![Imagen 6](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/PedidosUsuarios/Imagen6.png?raw=true)
 
 2. Si desea editar la información de un usuario, presione su nombre
 
-![Imagen 7]()
+![Imagen 7](https://github.com/Conektica/cnk-external-doku/blob/master/static/img/PedidosUsuarios/Imagen7.png?raw=true)
 
  **NOTA:** Es posible eliminarlos , mediante la opción **Borrar** del menú que aparece al pasar el mouse sobre su nombre. Si desea eliminar un grupo de usuarios seleccionelos mediante sus casillas y aplique la opción **Borrar**. 
 
