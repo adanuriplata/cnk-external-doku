@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Tu que eres cliente de conektica encuentra toda la información que necesitas para usar nuesros productos',
   url: 'https://conektica.github.io',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/conekticaFavicon.png',
   organizationName: 'conektica', // Usually your GitHub org/user name.
   projectName: 'cnk-external-doku', // Usually your repo name.
   themeConfig: {
