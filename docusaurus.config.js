@@ -16,11 +16,17 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Sitio web',
+          to: 'docs/mail-outlook-ios',
+          activeBasePath: 'docs/mail-outlook-ios',
+          label: 'Guias de correo electrónico',
           position: 'left',
         },
+        // {
+        //   to: 'docs/legal-terminos',
+        //   activeBasePath: 'docs/legal-terminos',
+        //   label: 'legal',
+        //   position: 'left',
+        // },
         {to: 'blog', label: 'Ecommerce', position: 'left'},
         {to: 'blog', label: 'Correo electronico', position: 'left'},
         {
@@ -86,14 +92,13 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          homePageId: 'doc6',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           //Cambio conektica para eliminar "Edit this page" dentro de los documentos
          /*  editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/', */
         },
-        
          blog: {
           showReadingTime: true,
           // Please change this to your repo.

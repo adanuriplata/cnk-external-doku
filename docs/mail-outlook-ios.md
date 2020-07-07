@@ -1,5 +1,5 @@
 ---
-id: doc6
+id: mail-outlook-ios
 title: Configuración de la cuenta de correo electrónico privada en Outlook para iOS
 sidebar_label: Outlook para iOS
 ---
