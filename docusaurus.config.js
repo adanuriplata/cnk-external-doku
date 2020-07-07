@@ -89,15 +89,18 @@ module.exports = {
           homePageId: 'doc1',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          //Cambio conektica para eliminar "Edit this page" dentro de los documentos
+         /*  editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/', */
         },
-        blog: {
+        
+         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+          //Cambio conektica para eliminar "Edit this page" dentro de los documentos
+           /* editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',  */
+        }, 
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
