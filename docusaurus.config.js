@@ -53,11 +53,11 @@ module.exports = {
           items: [
             {
               label: 'Woocommerce',
-              to: 'docs/',
+              to: 'docs/ecommerce-usuarios-woocommerce',
             },
             {
               label: 'Configuracion de correros',
-              to: 'docs/doc2/',
+              to: 'docs/mail-outlook-ios',
             },
           ],
         },
@@ -66,15 +66,15 @@ module.exports = {
           items: [
             {
               label: 'Branding',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'http://conektica.com/ads/branding/',
             },
             {
               label: 'Marketing digital',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://conektica.com/ads/',
             },
             {
               label: 'Ecommerce',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://conektica.com/ads/ecommerce/',
             },
           ],
         },
@@ -83,11 +83,11 @@ module.exports = {
           items: [
             {
               label: 'Blog conektica',
-              to: 'blog',
+              href: 'https://conektica.com/conektica-blog/',
             },
             {
               label: 'conektica.com',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://conektica.com/',
             },
           ],
         },
