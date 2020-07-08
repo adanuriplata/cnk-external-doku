@@ -1,5 +1,5 @@
 ---
-id: doc4
+id: ecommerce-rastrear-productos
 title: Como rastrear tu stock de productos de WooCommerce con Megaventory
 sidebar_label: Como rastrear tu stock de productos de WooCommerce con Megaventory
 ---

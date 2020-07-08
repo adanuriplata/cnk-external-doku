@@ -1,5 +1,5 @@
 ---
-id: doc14
+id: mail-outlook-android
 title: Configuración de la cuenta de correo electrónico privada en Outlook para Android
 sidebar_label: Outlook para Android
 ---

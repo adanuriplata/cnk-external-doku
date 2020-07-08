@@ -1,5 +1,5 @@
 ---
-id: doc12
+id: mail-iphone
 title: Configuración de la cuenta de correo electrónico privada en iPhone
 sidebar_label: iPhone
 ---

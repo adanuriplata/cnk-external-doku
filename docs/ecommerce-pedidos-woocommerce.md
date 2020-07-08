@@ -1,5 +1,5 @@
 ---
-id: doc28
+id: ecommerce-pedidos-woocommerce
 title: Pedidos en WooCommerce
 sidebar_label: Pedidos en WooCommerce
 ---

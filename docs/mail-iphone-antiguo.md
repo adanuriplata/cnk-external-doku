@@ -1,5 +1,5 @@
 ---
-id: doc13
+id: mail-iphone-antiguo
 title: Configuración de la cuenta de correo electrónico privada en iPhone (Antiguo OS)
 sidebar_label: iPhone (Antiguo OS)
 ---

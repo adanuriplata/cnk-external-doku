@@ -1,5 +1,5 @@
 ---
-id: doc27
+id: ecommerce-acceso-al-panel-wordpress
 title: Acceso al panel de administración Wordpress
 sidebar_label: Acceso al panel de administración Wordpress
 ---

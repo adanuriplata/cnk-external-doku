@@ -1,5 +1,5 @@
 ---
-id: doc18
+id: mail-outlook-2019
 title: Configuración de la cuenta de correo electrónico privada en Outlook 2019
 sidebar_label: Outlook 2019
 ---

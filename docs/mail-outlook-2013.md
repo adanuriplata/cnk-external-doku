@@ -1,5 +1,5 @@
 ---
-id: doc17
+id: mail-outlook-2013
 title: Configuración de la cuenta de correo electrónico privada en Outlook 2013
 sidebar_label: Outlook 2013
 ---

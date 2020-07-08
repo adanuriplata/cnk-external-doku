@@ -1,5 +1,5 @@
 ---
-id: doc20
+id: mail-OS-yosemite
 title: Configuración de la cuenta de correo electrónico privada en MacMail OS X Yosemite
 sidebar_label: OS X Yosemite
 ---

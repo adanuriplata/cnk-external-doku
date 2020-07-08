@@ -1,5 +1,5 @@
 ---
-id: doc19
+id: mail-outlook-OS
 title: Configuración de la cuenta de correo electrónico privada en Outlook para OS X
 sidebar_label: Outlook para OS X
 ---

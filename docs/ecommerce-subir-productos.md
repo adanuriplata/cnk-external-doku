@@ -1,5 +1,5 @@
 ---
-id: doc26
+id: ecommerce-subir-productos
 title: Subir productos a WooCommerce por medio de Wordpress
 sidebar_label: Subir Productos a WooCommerce
 ---

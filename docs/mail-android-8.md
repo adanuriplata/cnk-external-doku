@@ -1,5 +1,5 @@
 ---
-id: doc11
+id: mail-android-8
 title: Configuración de la cuenta de correo electrónico privada en Android 8.x.x
 sidebar_label: Android 8.x.x
 ---

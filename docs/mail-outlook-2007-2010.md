@@ -1,5 +1,5 @@
 ---
-id: doc16
+id: mail-outlook-2007-2010
 title: Configuración de la cuenta de correo electrónico privada en Outlook 2007-2010
 sidebar_label: Outlook 2007-2010
 ---

@@ -1,5 +1,5 @@
 ---
-id: doc8
+id: mail-windows-10
 title: Configuración de la cuenta de correo electrónico privada en Windows 10
 sidebar_label: Windows 10
 ---

@@ -1,5 +1,5 @@
 ---
-id: doc9
+id: mail-android-4
 title: Configuración de la cuenta de correo electrónico privada en Android 4.x.x
 sidebar_label: Android 4.x.x
 ---

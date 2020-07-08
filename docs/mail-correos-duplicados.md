@@ -1,5 +1,5 @@
 ---
-id: doc24
+id: mail-correos-duplicados
 title: Eliminar correos electrónicos duplicados en Outlook 2010 y 2013
 sidebar_label: Eliminar correos duplicados en Outlook 2010 y 2013
 ---

@@ -1,5 +1,5 @@
 ---
-id: doc15
+id: mail-outlook-2016
 title: Configuración de la cuenta de correo electrónico privada en Outlook 2016
 sidebar_label: Outlook 2016
 ---

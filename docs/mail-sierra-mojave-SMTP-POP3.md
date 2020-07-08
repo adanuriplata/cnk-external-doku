@@ -1,5 +1,5 @@
 ---
-id: doc22
+id: mail-sierra-mojave-SMTP-POP3
 title: Configuración de la cuenta de correo electrónico privada en Sierra/Mojave (SMTP/POP3)
 sidebar_label: Sierra/Mojave (SMTP/POP3)
 ---

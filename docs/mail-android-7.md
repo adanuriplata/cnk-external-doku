@@ -1,5 +1,5 @@
 ---
-id: doc10
+id: mail-android-7
 title: Configuración de la cuenta de correo electrónico privada en Android 7.x.x
 sidebar_label: Android 7.x.x
 ---

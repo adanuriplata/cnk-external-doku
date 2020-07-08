@@ -1,5 +1,5 @@
 ---
-id: doc29
+id: ecommerce-usuarios-woocommerce
 title: Usuarios en WooCommerce
 sidebar_label: Usuarios en WooCommerce
 ---

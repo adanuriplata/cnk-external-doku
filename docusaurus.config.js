@@ -27,13 +27,22 @@ module.exports = {
         //   label: 'legal',
         //   position: 'left',
         // },
-        {to: 'blog', label: 'Ecommerce', position: 'left'},
-        {to: 'blog', label: 'Correo electronico', position: 'left'},
+
+        //Menú Ecommerce
+        {
+        to: 'docs/ecommerce-usuarios-woocommerce',
+        activeBasePath:'docs/ecommerce-usuarios-woocommerce' ,
+        label: 'Ecommerce',
+        position: 'left',
+         },
+        
+        //Menú correo electronico
+        /* {to: 'blog', label: 'Correo electronico', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'Contacto',
           position: 'right',
-        },
+        }, */
       ],
     },
     footer: {

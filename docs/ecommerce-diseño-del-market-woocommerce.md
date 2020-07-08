@@ -1,5 +1,5 @@
 ---
-id: doc5
+id: ecommerce-diseño-del-market-woocommerce
 title: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
 sidebar_label: Diseño del tema del Mercado WooCommerce y pautas para la experiencia del usuario
 ---

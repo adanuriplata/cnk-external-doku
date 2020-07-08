@@ -1,5 +1,5 @@
 ---
-id: doc21
+id: mail-sierra-mojave-SMTP-IMAP
 title: Configuración de la cuenta de correo electrónico privada en Sierra/Mojave (SMTP/IMAP)
 sidebar_label: Sierra/Mojave (SMTP/IMAP)
 ---

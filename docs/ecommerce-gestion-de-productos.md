@@ -1,5 +1,5 @@
 ---
-id: doc3
+id: ecommerce-gestion-de-productos
 title: La gestión de productos en el mercado de WooCommerce
 sidebar_label: La gestión de productos en el mercado de WooCommerce
 ---

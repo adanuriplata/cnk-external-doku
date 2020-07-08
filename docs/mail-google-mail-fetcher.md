@@ -1,5 +1,5 @@
 ---
-id: doc25
+id: mail-google-mail-fetcher
 title: Configuración de la cuenta de correo electrónico privada para Google Mail Fetcher
 sidebar_label: Google Mail Fetcher
 ---

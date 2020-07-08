@@ -1,5 +1,5 @@
 ---
-id: doc23
+id: mail-thunderbird
 title: Configuración de la cuenta de correo electrónico privada en Thunderbird
 sidebar_label: Thunderbird
 ---

@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: ecommerce-introduccion-al-ecommerce
 title: Introducción al WooCommerce Marketplace
 sidebar_label: Introducción al WooCommerce Marketplace
 ---

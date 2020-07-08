@@ -1,5 +1,5 @@
 ---
-id: doc30
+id: ecommerce-modificar-texto-botones
 title: Modificar texto y botones 
 sidebar_label: Modificar texto y botones 
 ---
