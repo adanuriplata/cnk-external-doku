@@ -33,7 +33,7 @@ En Conektica, preferimos que nuestros clientes sean los que regulen el contenido
 Conektica, entregará todos los registros del servidor del cliente ofensor, cuando medien, en casos extraordinarios y gravísimos, ordenes provenientes de autoridades ministeriales y/o judiciales de conformidad con las leyes y reglamentos de los Estados Unidos de Norteamérica y de los Estados Unidos Mexicanos.
 Tomamos muy en serio este tipo de órdenes y ponemos especial atención a ellas, para cumplir con las legislaciones relacionadas con las violaciones a estos términos de servicio.
 
-## Contenido de tercerors
+## Contenido de terceros
 
 Si elige vender o revender publicidad o espacio web a un tercero, usted será responsable de los contenidos de esa publicidad y de las acciones de ese tercero. Conektica tiene el derecho absoluto de rechazar cualquier publicidad u otro contenido de terceros que sea ilegal, ofensivo o que infrinja de otro modo la política o el acuerdo actual de Conektica. Dicho contenido puede resultar en la suspensión o en la terminación inmediata de su cuenta. Usted es responsable de monitorear todas las renovaciones y pedidos de servicios. En caso de que ocurra un error, el titular de la cuenta debe notificar a Conektica inmediatamente del error.
 
