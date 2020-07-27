@@ -18,7 +18,7 @@ legal: [
 
 docsEcommerce:[
   {
-    Ecommerce:['ecommerce-usuarios-woocommerce','ecommerce-subir-productos','ecommerce-rastrear-productos','ecommerce-pedidos-woocommerce','ecommerce-introduccion-al-ecommerce','ecommerce-gestion-de-productos','ecommerce-diseño-del-market-woocommerce'],
+    Ecommerce:['ecommerce-acceso-al-panel-wordpress', 'ecommerce-administracion-de-la-tienda','ecommerce-usuarios-woocommerce', 'ecommerce-ajustes-generales','ecommerce-subir-productos','ecommerce-rastrear-productos','ecommerce-pedidos-woocommerce','ecommerce-introduccion-al-ecommerce','ecommerce-gestion-de-productos','ecommerce-diseño-del-market-woocommerce'],
   },
 ],
 
