@@ -12,7 +12,7 @@ Para acceder a los ajustes generales haremos click en “WooCommerce > Ajustes�
 ## Pestaña "General"
 Ahora puedes ingresar o actualizar la información que necesites, si nosotros construimos tu página este apartado ya estará correctamente configurado aunque puede que quieras agregar o quitar configuraciones especificas.  
 
-En la vista general puedes introducir la información geográfica de la tienda física (si es que hay alguna),también en este apartado puedes definir si quieres venderle a países específicos y los lugares donde ofreces envíos.
+En la vista general puedes introducir la información geográfica de la tienda física (si es que hay alguna), también en este apartado puedes definir si quieres venderle a países específicos y los lugares donde ofreces envíos.
 
 ![ajustesGenerales](/static/img/AjustesGenerales/ajustesGenerales.png)
 
@@ -27,8 +27,8 @@ En la vista general puedes introducir la información geográfica de la tienda f
  **Nota:** El resto de las configuraciones afectan la interacción con el cliente y recomendamos que no las modifiques.
 
  ## Pestaña de "Envios"
- En la pestaña de envíos puesdes añadir las zonas geográficas donde deseas hacer envíos. Si no tienes ninguna zona de envío configurada puedes ver un ejemplo de como se configura y un botón para generarla.  
- Justo debajo de la pestaña de envio verás tambien un apartado llamado "**Opciones de envío**" donde puedes acceder a configuraciones extra.
+ En la pestaña de envíos puedes añadir las zonas geográficas donde deseas hacer envíos. Si no tienes ninguna zona de envío configurada puedes ver un ejemplo de como se configura y un botón para generarla.  
+ Justo debajo de la pestaña de envío verás tambíen un apartado llamado "**Opciones de envío**" donde puedes acceder a configuraciones extra.
 
  ![pestañaEnvios](/static/img/AjustesGenerales/pestañaEnvios.png)  
  **Nota:** El resto de las configuraciones afectan la interacción con el cliente y recomendamos que no las modifiques.

@@ -3,7 +3,7 @@ id: ecommerce-usuarios-woocommerce
 title: Usuarios en WooCommerce
 sidebar_label: Usuarios en WooCommerce
 ---
-***
+***  
 ## Acceder a la administración de usuarios
 Todos los usuarios que se registran son almacenados en la pestaña de **Usuarios** que se encuentra en la barra de opciones de WordPress.  
 

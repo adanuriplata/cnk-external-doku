@@ -13,19 +13,20 @@ Una vez nos encontramos dentro del escritorio de WordPress, veremos un panel de 
 ## WooCommerce 
 **En esta sección encontramos las siguientes opciones:**  
 - Escritorio
-- [Pedidos](/docs/)
+- [Pedidos](/docs/ecommerce-pedidos-woocommerce)
 - [Cupones](/docs/)
-- [Clientes](/docs/ecommerce-usuarios-woocommerce)
-- Informes
+- [Usuarios](/docs/ecommerce-usuarios-woocommerce)
 - [Ajustes](/docs/ecommerce-ajustes-generales)
-- [Estado](/docs/)
+- [Envios](/docs/ecommerce-envios-woocommerce)
 - Extensiones
+- Informes
+
 
 ## Productos
 **En esta sección encontramos las siguientes opciones:**  
-- [Todos los productos](/docs/)
-- [Añadir nuevo](/docs/)
-- [Categorías](/docs/)
-- [Etiquetas](/docs/)
-- [Atributos](/docs/)
+- [Crear productos nuevos (individualmente)](/docs/)  
+- [Subir productos de forma masiva](/docs/)  
+- [Categorías](/docs/)  
+- [Etiquetas](/docs/)  
+- [Atributos](/docs/)  
 
