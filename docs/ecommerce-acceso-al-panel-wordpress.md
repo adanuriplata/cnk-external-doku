@@ -4,7 +4,6 @@ title: Acceso al panel de administración WordPress
 sidebar_label: Acceso al panel de administración WordPress
 ---
 ***
-import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ¡Gracias por ser nuestro cliente! Vemos que quieres administrar tu nueva página con WordPress, este tutorial te ayudará a acceder al panel de administración de tu página en Wordpress, ahí encontrarás las configuraciones necesarias para administrar tu sitio, preparadas especialmente para ti.
 
@@ -12,7 +11,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 Debe escribir su correspondiente **URL** (Proporcionado por conektica) en la barra de direcciones de su navegador,
 la forma predeterminada sería algo como **[https://tudominio.com/wp-admin](#)**.
 
-<img alt="" src={useBaseUrl('static/img/AccesoPanel/Imagen4.png')} />
+<img alt="" src="https://github.com/Conektica/cnk-external-doku/blob/master/static/img/AccesoPanel/Imagen4.png" />
 
 **NOTA:** Esto le llevará directamente al escritorio, donde puede encontrar el menú principal de WordPress.
 <img src="https://github.com/Conektica/cnk-external-doku/blob/master/static/img/AccesoPanel/Imagen1.png?raw=true" width="40%"/>  
