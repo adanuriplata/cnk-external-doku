@@ -7,7 +7,7 @@ sidebar_label: Envios en WooCommerce
 ## Opciones de envío
 En el panel de administración de wordpress elegimos WooCommerce > Ajustes > Envío para editar todas estas opciones. En esta sección nos saldrán 3 pestañas debajo para editarlo todo: Zonas de Envío, opciones de envío y clases de envío.  
 
-<img src="/static/img/envios/envios1.png" width="100%" />
+<img src="https://static.conektica.com/static/img/envios/envios1.png" width="100%" />
 
 ### Zonas de envío
 Una zona de envío es un área geográfica donde podemos especificar uno o más métodos de envío para nuestros productos. En las configuraciones podremos abarcar zonas generales (como continentes o países) hasta zonas más detalladas (especificando nombre de ciudades, códigos postales o reglas específicas).  
@@ -17,14 +17,14 @@ Una zona de envío es un área geográfica donde podemos especificar uno o más 
 **Para editar la zona de envío:**  
 1. Dentro de la seccion de envios aparece la zona de envío creada por conektica dar click en "Editar"  
 
-<img src="/static/img/envios/envios2.png" width="50%" />
+<img src="https://static.conektica.com/static/img/envios/envios2.png" width="50%" />
 
 Ahora tendremos campos para editar:  
 - Nombre de la zona de envío.
 - Regiones de la Zona donde se puede elegir ciudades o CP esto está limitado al pais o paises que se eligieron a la configuración general de woocommerce.
 - Metodos de envio.
 
-<img src="/static/img/envios/envios3.png" width="80%" />
+<img src="https://static.conektica.com/static/img/envios/envios3.png" width="80%" />
 
 
 2. Ahora se mostrará las opciones donde podremos personalizar el nombre y modificar la configuración, para lo cual damos click en la opción previamente creada por conektica “Gastos de Envío”

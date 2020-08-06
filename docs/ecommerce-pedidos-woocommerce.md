@@ -17,12 +17,12 @@ Recuerda que los pedidos se crean cuando un cliente completa el proceso de compr
     - Si ya tienes pedidos, verás una lista típica de WordPress con la información más importante de los pedidos a simple vista.
 - Para acceder a las herramientas de gestión de pedidos debemos hacer clic sobre el ID del pedido, generalmente se ve así: #12304.
 
-<img src="/static/img/pedidosUsuarios/pedidos1.png" width="100%"/>  
+<img src="https://static.conektica.com/static/img/PedidosUsuarios/pedidos1.PNG" width="100%"/>  
 
 ### 2. Administrar pedidos
 Como vemos en la siguiente imágen tenemos múltiples secciones describiremos las funciones de cada una a continuación. 
 
-<img src="/static/img/pedidosUsuarios/pedidos2.png" width="100%"/>  
+<img src="https://static.conektica.com/static/img/PedidosUsuarios/pedidos2.png" width="100%"/>  
 
 #### Detalles del pedido
 En esta sección podemos ver información general de nuestro pedido como la dirección de facturación, la dirección de envío, la fecha de creación del pedido y la hora. Posiblemente uno de los campos más importantes es el “Estado”, ya que de eso dependerá si el envío procede
@@ -58,7 +58,7 @@ Las notas pueden ser de dos tipos:
 - Privadas (aparecen en gris). Estas son para los administradores de la tienda, y los clientes no las pueden ver. Se usan  para aclaraciones internas.  
 - Al cliente (aparecen en lila). Estas son notas que el cliente recibirá por mail. Se usan para comunicarnos con el cliente y tener constancia de todas ellas. Por ejemplo, si un pedido se va a retrasar un poco, podemos enviarle una nota (correo) a través de esta opción.
 
-<img src="/static/img/pedidosUsuarios/pedidos3.png" width="80%"/>  
+<img src="https://static.conektica.com/static/img/PedidosUsuarios/pedidos3.png" width="80%"/>  
 
 ####  Productos del pedido
 A continuación tenemos el listado de artículos que contiene el pedido en sí. Es lo equivalente al carrito que ha llenado el cliente.

@@ -8,7 +8,7 @@ sidebar_label: Administración de la tienda con WooCommerce
 Para poder acceder a las configuraciones de la tienda WooCommerce, necesitamos haber iniciado sesión correctamente.
 Una vez nos encontramos dentro del escritorio de WordPress, veremos un panel de herramientas en la parte izquierda, en este panel veremos las opciones más importantes de WooCommerce, explicaremos ambas a grandes rasgos.
 
-![panelWordpress](/static/img/AccesoPanel/panelWordpress.png)
+![panelWordpress](https://static.conektica.com/static/img/AccesoPanel/panelWordpress.png)
 
 ## WooCommerce 
 **En esta sección encontramos las siguientes opciones:**  

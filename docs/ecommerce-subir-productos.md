@@ -14,12 +14,12 @@ Este tutorial te ayudará a agregar productos a WooCommerce por medio de Wordpre
 ### Columnas
 Llenar la información correcta en la columna que le corresponde es muy importante, describiremos cada una de las columnas a continuación y explicaremos como llenarlas correctamente. **Es muy importante que no le demos ningún tipo de formato a las celdas como puede ser Moneda, Fecha, Hora, Contabilidad etc.**
 
-![csv](/static/img/SubirCSV/csv.png)
+![csv](https://static.conektica.com/static/img/SubirCSV/csv.png)
 
 #### Categories
 En la columna de categoría podemos ingresar una o más categorías para nuestros productos, también podemos agregar subcategorías señalándolas con un signo de “mayor que” por ejemplo: Ropa > Mujer.  Esto indica que el producto pertenece a la categoría Ropa y a la subcategoría Mujer, si queremos que el artículo pertenezca a distintas categorías y subcategorías, debemos separarlas por comas. (Es muy importante tener cuidado con la ortografía, mayúsculas y minúsculas) si tenemos errores de dedo, o no escribimos las categorías de forma exacta podríamos tener categorías duplicadas. Por ejemplo si escribimos la categoría Ropa y ropa, se generan dos categorías diferentes y es algo que en general deseamos evitar.
 
-![csv](/static/img/SubirCSV/csv2.png)
+![csv](https://static.conektica.com/static/img/SubirCSV/csv2.PNG)
 
 **En este ejemplo en la parte superior se ven diferentes celdas con títulos:**
 
@@ -39,28 +39,28 @@ En la columna de categoría podemos ingresar una o más categorías para nuestro
 #### Brand
 En esta columna podemos asignar una marca a nuestro producto y funciona de manera muy similar a las categorías, separamos por comas si deseamos ingresar más de una marca para el mismo producto. 
 
-<img src="/static/img/SubirCSV/csv3.png" width="30%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv3.PNG" width="30%"/>  
 
 #### SKU
 Antes que nada es importante saber que es el SKU, el SKU es una clave de identificación única para los productos y NO debe repetirse de ninguna forma, cada producto debe tener su propia clave de identificación, ya que lo utilizaremos más adelante para otros propósitos. Sin embargo el SKU suele utilizarse a nivel empresa para manejar inventarios cuando se tienen demasiados productos y dependen totalmente de como manejas tu inventario. 
 
-<img src="/static/img/SubirCSV/csv4.png" width="30%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv4.PNG" width="30%"/>  
 
 #### Name
 En esta columna pondremos el nombre del producto, de preferencia el nombre del producto también debe ser único y corto, si queremos dar más detalles del producto sin extendernos demasiado tenemos la columna de descripción corta más adelante.
 
-<img src="/static/img/SubirCSV/csv5.png" width="30%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv5.PNG" width="30%"/>  
 
 #### Description
 En esta columna debemos escribir una descripción larga y detallada del producto, cualquier información adicional que se quiera dar sobre el producto se hace aquí, no se pueden hacer saltos de línea, debemos respetar el formato de la casilla y solamente escribir la descripción del producto. Todo lo que se escriba en esta casilla será visible para el cliente.
 
-<img src="/static/img/SubirCSV/csv6.png" width="60%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv6.PNG" width="60%"/>  
 
 
 #### Short Description
 La descripción corta debe ser rápida, llamativa y relevante, la información más importante de nuestro producto debe mostrarse en esta descripción para captar la atención y aumentar las posibilidades de que el producto sea comprado, el nombre del producto NO es una descripción corta. En muchas ocasiones el nombre y la descripción corta se mostrarán juntas por lo que podría ser redundante tener la misma información en ambos.  
 
-<img src="/static/img/SubirCSV/csv7.png" width="50%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv7.PNG" width="50%"/>  
 
 #### Images
 Esta columna es muy importante y debe tenerse mucho cuidado al manerjala, pues de tener incorrectos los links el producto fallará en subirse y serán omitidos.
@@ -101,7 +101,7 @@ Lo primero que debemos saber es que tendremos que modificar el tamaño, nombre e
 
 3. En la página **Importar** busca la opción **Productos de WooCommerce (CSV)** y da clic en **Ejecutar importador**
 
-![Imagen 9](/static/img/SubirCSV/csv16.PNG)
+![Imagen 9](https://static.conektica.com/static/img/SubirCSV/csv16.PNG)
 
 4. Una vez que se ejecuto el importador da clic en **Seleccionar archivo** donde deberás seleccionar el archivo CSV creado anteriormente 
 

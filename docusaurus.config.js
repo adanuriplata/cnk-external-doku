@@ -30,8 +30,8 @@ module.exports = {
 
         //Menú Ecommerce
         {
-        to: 'docs/ecommerce-usuarios-woocommerce',
-        activeBasePath:'docs/ecommerce-usuarios-woocommerce' ,
+        to: 'docs/ecommerce-administracion-de-la-tienda',
+        activeBasePath:'docs/ecommerce-administracion-de-la-tienda' ,
         label: 'Ecommerce',
         position: 'left',
          },

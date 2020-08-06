@@ -40,14 +40,14 @@ Si un producto tiene más de una imagen debemos agregar un conteo al SKU. Por ej
 Ahora que tenemos listas nuestras imágenes debemos subirlas a nuestra página web WordPress. 
 En el panel izquierdo de nuestro WordPress encontraremos la opción de “Medios” al hacer clic podemos ver todas las imágenes que han sido cargadas en nuestro sitio. 
 
-<img src="/static/img/SubirCSV/csv13.png" width="75%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv13.png" width="75%"/>  
 
 **Una vez que tenga sus imágenes cargadas debe continuar a colocar el URL en el documento CSV**  
 Ya que todo esto es parte de nuestro proceso para subir imágenes de forma masiva necesitamos el URL de las imágenes que acabamos de subir a nuestro WordPress, para obtener los URL hacemos clic sobre la miniatura de la imágen y aparecerán las especificaciones de la imágen.  
 En la parte inferior derecha vemos el URL donde está guardada nuestra imágen. Debemos seleccionar y copiar ese link en la casilla de “Images” de nuestro archivo CSV (Puedes seleccionarlo y oprimir Ctrl + C, Ctrl + V).
 
-<img src="/static/img/SubirCSV/csv14.png" width="100%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv14.png" width="100%"/>  
 
 Tenemos que escribir el link de las imágenes una por una en nuestro archivo CSV con el producto que le corresponde y una vez copiemos todos debe verse algo así:
 
-<img src="/static/img/SubirCSV/csv15.png" width="70%"/>  
+<img src="https://static.conektica.com/static/img/SubirCSV/csv15.png" width="70%"/>  

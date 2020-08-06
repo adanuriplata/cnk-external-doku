@@ -7,7 +7,7 @@ module.exports = {
 
     Smartphone: ['mail-outlook-ios', 'mail-android-9', 'mail-android-4', 'mail-android-7', 'mail-android-8', 'mail-iphone', 'mail-iphone-antiguo', 'mail-outlook-android'],
 
-    Escritorio: ['mail-windows-10', 'mail-outlook-2016', 'mail-outlook-2007-2010', 'mail-outlook-2013', 'mail-outlook-2019', 'mail-outlook-OS', 'mail-OS-yosemite', 'mail-sierra-mojave-SMTP-IMAP', 'mail-sierra-mojave-SMTP-POP3','mail-thunderbird', 'mail-correos-duplicados', 'mail-google-mail-fetcher'],
+    Escritorio: ['mail-como-insertar-firma-gmail' , 'mail-windows-10', 'mail-outlook-2016', 'mail-outlook-2007-2010', 'mail-outlook-2013', 'mail-outlook-2019', 'mail-outlook-OS', 'mail-OS-yosemite', 'mail-sierra-mojave-SMTP-IMAP', 'mail-sierra-mojave-SMTP-POP3','mail-thunderbird', 'mail-correos-duplicados', 'mail-google-mail-fetcher'],
   }
   ],
 legal: [
@@ -18,7 +18,7 @@ legal: [
 
 docsEcommerce:[
   {
-    Ecommerce:['ecommerce-acceso-al-panel-wordpress', 'ecommerce-administracion-de-la-tienda','ecommerce-crear-productos-woocommerce','ecommerce-usuarios-woocommerce', 'ecommerce-ajustes-generales','ecommerce-subir-productos-csv','ecommerce-pedidos-woocommerce','ecommerce-envios-woocommerce' ,'ecommerce-optimizarImagenes'
+    Ecommerce:[ 'ecommerce-administracion-de-la-tienda','ecommerce-acceso-al-panel-wordpress','ecommerce-crear-productos-woocommerce','ecommerce-usuarios-woocommerce', 'ecommerce-ajustes-generales','ecommerce-subir-productos-csv','ecommerce-pedidos-woocommerce','ecommerce-envios-woocommerce' ,'ecommerce-optimizarImagenes'
     /*
     Articulos en revision
     'ecommerce-diseño-del-market-woocommerce','ecommerce-introduccion-al-ecommerce','ecommerce-gestion-de-productos','ecommerce-rastrear-productos',
