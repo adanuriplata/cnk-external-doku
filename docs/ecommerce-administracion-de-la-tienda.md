@@ -24,9 +24,9 @@ Una vez nos encontramos dentro del escritorio de WordPress, veremos un panel de 
 
 ## Productos
 **En esta sección encontramos las siguientes opciones:**  
-- [Crear productos nuevos (individualmente)](/docs/)  
-- [Subir productos de forma masiva](/docs/)  
-- [Categorías](/docs/)  
-- [Etiquetas](/docs/)  
-- [Atributos](/docs/)  
+- [Crear productos nuevos (individualmente)](/docs/ecommerce-crear-productos-woocommerce)  
+- [Subir productos de forma masiva](/docs/ecommerce-subir-productos-csv)  
+- Categorías
+- Etiquetas
+- Atributos  
 
