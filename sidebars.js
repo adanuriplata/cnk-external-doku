@@ -12,7 +12,7 @@ module.exports = {
   ],
 legal: [
   {
-    Hosting: ['legal-terminos', 'legal-usoaceptable', 'legal-antispam'],
+    Hosting: ['legal-terminos', 'legal-usoaceptable', 'legal-antispam','cnk-plantillas-csv'],
   }, 
 ],
 
