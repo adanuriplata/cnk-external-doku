@@ -98,4 +98,7 @@ Puedes crear las plantillas que tu quieras o necesites y aunque puede parecer qu
 
 Si haz seguido todos los pasos correctamente verás todas tus tareas precargadas y ¡puedes comenzar a trabajar! Támbien hemos preparado un video tutorial sobre está guía por si algo se te pasó.
 
+Puedes ir al [archivo originar](https://docs.google.com/spreadsheets/d/1j03GRW125ynvIACm81QBngE_HuzM7pFstLQYXPUJyqc/edit?usp=sharing) de este tutorial y usarlo como referencia o descargarlo para guiarte en la creación de tus propias tareas. ¡Gracias!
+
 #### Video Tutorial General
+<iframe src="https://player.vimeo.com/video/452725670" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
