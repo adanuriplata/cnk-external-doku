@@ -51,8 +51,9 @@ Se abre un cuadro donde podemos seleccionar nuestra imágen directamente de Goog
 ## Referencias extra
 **Por si no ha sido suficiente la explicación escrita, hemos preparado un video tutorial sobre este tema para ayudarte a configurar de una vez por todas tu firma en Gmail.**
 
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/445360792" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+</div>
 
 
 **Tal vez te interesa nuestro articulo sobre como [configurar un correo de dominio en Gmail](https://ayuda.conektica.com/docs/mail-google-mail-fetcher)**

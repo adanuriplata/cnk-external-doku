@@ -131,16 +131,20 @@ Sabemos que todos estos pasos pueden ser dificiles la primera vez, por lo que he
 
 **Video Tutorial General**
 
-<iframe src="https://player.vimeo.com/video/430499151" width="640" height="343" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<div class="video-container">   
+    <iframe src="https://player.vimeo.com/video/430499151" width="640" height="343" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 **Video Tutorial para documento CSV**
 
-<iframe src="https://player.vimeo.com/video/430535208" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="https://player.vimeo.com/video/430535208" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 **Video Tutorial para optimizar imágenes a utilizar en archivo CSV**
 
-<iframe src="https://player.vimeo.com/video/430533447" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<div class="video-container">
+    <iframe src="https://player.vimeo.com/video/430533447" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 **¡Muchas gracias por leer!**
 

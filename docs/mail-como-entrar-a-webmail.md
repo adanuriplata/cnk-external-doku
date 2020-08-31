@@ -53,5 +53,7 @@ Ahora debemos repetir el proceso, seleccionamos el correo y hacemos click sobre 
 ## Referencias extra
 ¡Gracias por usar la ayuda de conektica! Hemos preparado un corto video tutorial sobre como hacer lo anterior visto, por si aún tienes dudas. Recuerda que puedes contactarnos en [Conektica.com](https://conektica.com/).
 
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/445701148" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
