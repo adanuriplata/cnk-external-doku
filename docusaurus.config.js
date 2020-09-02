@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Base de conocimiento',
-  tagline: 'Tu que eres cliente de conektica encuentra toda la información que necesitas para usar nuesros productos',
+  tagline: 'Bienvenido cliente Conektica. Aquí podrás encontrar toda la información que necesitas para usar los servicios que ofrecemos  ¡Gracias por tu preferencia!',
   url: 'https://conektica.github.io',
   baseUrl: '/',
   favicon: 'https://conektica.com/wp-content/uploads/2019/03/cropped-co-favi-04-180x180.png',

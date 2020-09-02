@@ -12,7 +12,12 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 1. Abra Microsoft Outlook 2016 en su dispositivo. Si todavía no tiene ningún corrreo añadido, verá la página **Información >> Información de la cuenta**. Haga clic en el botón **+Agregar cuenta**. En caso de que ya tenga correo configurados anteriormente, vaya a el apartado **Archivo** >> **Información** >> página **Información de cuenta** y haga clic en el botón **+Agregar cuenta**:
 
 ![Imagen uno](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_1.png)
+
+<div class="w-80">
+
 ![Imagen dos](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_1.1.png)
+
+</div>
 
 2. Marque la opción **Cuenta de correo electrónico** y rellene los campos correspondientes:
 - **Su nombre**: el nombre que le gustaría que vieran los destinatarios de sus correos electrónicos
@@ -24,7 +29,11 @@ Observe no tener espacios en blanco.
 
 3. Una vez que complete todos los campos, haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/peoutlook2016auto.png)
+
+</div>
 
 **NOTA**: si aparece alguna advertencia, ignórenla y proceda.
 
@@ -34,11 +43,19 @@ Para configurar su cuenta de correo electrónico en Outlook **manualmente**, com
 
 1. Selecciona la opción **Configuración manual o tipos de servidores adicionales** y haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_2.png)
+
+</div>
 
 2. En la siguiente página, seleccione la opción **POP** o **IMAP** y luego haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_3.png)
+
+</div>
 
 **POP3** significa Post Office Protocol, y fue diseñado como una forma sencilla de acceder a un servidor de correo electrónico remoto. La versión más reciente es POP3, y es soportada por virtualmente todos los clientes y servidores de correo electrónico. El POP funciona descargando los correos electrónicos del servidor de correo de su proveedor y luego marcándolos para ser eliminados allí. Esto significa que sólo puede leer esos mensajes de correo electrónico en ese cliente de correo electrónico, en esa computadora. No podrá acceder a ningún correo electrónico descargado previamente desde cualquier otro dispositivo, o con cualquier otro cliente de correo electrónico, o a través de un webmail. 
 
@@ -54,24 +71,40 @@ Dado que su correo electrónico se almacena en el servidor del proveedor y no lo
 - **Servidor de correo electrónico saliente**: mail.privateemail.com (el mismo para todas las cuentas)
 - **Requiere el inicio de sesión mediante la autenticación de contraseña segura (SPA)**: debe estar desmarcado
 
+<div class="w-80">
+
 ![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_9.png)
+
+</div>
 
 4. A continuación, haga clic en **Más configuraciones** y vaya a la pestaña **Servidor de salida**. Seleccione la opción denominada **Mi servidor de salida (SMTP) requiere autenticación** y seleccione **Usar la misma configuración que mi servidor de correo entrante**: 
 
+<div class="w-50">
+
 ![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_10.png)
+
+</div>
 
 5. Vaya a la pestaña **Avanzado** y utilice los siguientes puertos y encriptación según el tipo de conexión que haya elegido: 
 - **Servidor entrante (si está usando IMAP)**: 993 puerto para SSL, 143 para TLS
 - **Servidor de entrada (si está usando POP3)**: 995 puerto para SSL
 - **Servidor de salida (SMTP)**: 465 puerto para SSL, 587 puerto para TLS
 
+<div class="w-50">
+
 ![Imagen 8](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_11.png)
+
+</div>
 
 Haga clic en **OK** >> **Siguiente** 
 
 6. En caso de que todos los ajustes sean correctos, recibirá el siguiente mensaje:
 
+<div class="w-50">
+
 ![Imagen 9](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2016_12.png)
+
+</div>
 
 ¡Buenas noticias! Ya está todo listo. 
 

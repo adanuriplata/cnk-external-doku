@@ -12,11 +12,19 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Después de crear una nueva cuenta de **Outlook**, vaya a la pestaña **Archivo** y haga clic en **Configuración de la cuenta**; seleccione **Configuración de la cuenta** en el menú desplegable: 
 
+<div class="w-80">
+
 ![Imagen 1](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_1.png)
+
+</div>
 
 2. Haga clic en **Nuevo** en la pestaña **Correo electrónico**:
 
+<div class="w-60">
+
 ![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_2.png)
+
+</div>
 
 3. Seleccione **Cuenta de correo electrónico** e introduzca su información: 
 
@@ -24,8 +32,11 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 - **Dirección de correo electrónico** - su dirección de correo electrónico privada completa 
 - **Contraseña** - contraseña para tu cuenta de correo electrónico privada 
 
+<div class="w-70">
+
 ![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_3.png)
 
+</div>
 
 4. Una vez que haya completado todos los campos, haga clic en **Siguiente**. Ignore las advertencias que aparezcan y pase al siguiente paso. 
 
@@ -33,11 +44,19 @@ Si no puede proceder, es posible que tenga que repetir el proceso de configuraci
 
 1. Elija la opción **Configurar manualmente los ajustes del servidor o los tipos de servidores adicionales** y haga clic en **Siguiente**:
 
+<div class="w-70">
+
 ![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_4.png)
+
+</div>
 
 2. Elija **Correo electrónico de Internet** y haga clic en **Siguiente**:
 
+<div class="w-70">
+
 ![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_5.png)
+
+</div>
 
 3. Introduzca/seleccione la siguiente información: 
 
@@ -50,20 +69,35 @@ Si no puede proceder, es posible que tenga que repetir el proceso de configuraci
 - **Contraseña**: la contraseña de esta cuenta de correo electrónico 
 - **Requiere el inicio de sesión mediante la autenticación de contraseña segura (SPA)**: debe estar desmarcado 
 
+<div class="w-70">
 
 ![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_8.png)
 
+</div>
+
 **O**, si estás usando una cuenta POP3:
+
+<div class="w-70">
 
 ![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_7.png)
 
+</div>
+
 4. A continuación, haga clic en **Más configuraciones**: 
+
+<div class="w-70">
 
 ![Imagen 8](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_11.png)
 
+</div>
+
  5. Vaya a la pestaña **Servidor de salida** y seleccione **Mi servidor de salida (SMTP) requiere autenticación**:
 
+<div class="w-70">
+
  ![Imagen 9](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_12.png)
+
+</div>
 
  6. Vaya a la pestaña **Avanzado** e introduzca los siguientes números de Puerto del Servidor: 
 
@@ -77,7 +111,11 @@ Si no puede proceder, es posible que tenga que repetir el proceso de configuraci
 
 8. Haga clic en **Probar la configuración de la cuenta**. Si la información enviada es correcta, la columna Estado se mostrará como **Completada**:
 
+<div class="w-90">
+
 ![Imagen 11](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook_14.png)
+
+</div>
 
 9. Si la prueba fue exitosa, haga clic en **Cerrar** para volver a la ventana anterior, y luego haga clic en **Siguiente** para terminar la configuración. 
 

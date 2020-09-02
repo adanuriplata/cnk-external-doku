@@ -13,7 +13,7 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 2. Ingrese **completa la dirección de correo electrónico privado** en el campo **Ingresar dirección de correo electrónico** y la contraseña de la misma en el campo **Ingresar contraseña**. Seleccione el protocolo IMAP o POP3 a continuación y pulsa **Iniciar sesión**:
 
-![Imagen 1](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_1.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_1.png" width="40%"/>
 
 3. Para configurar la dirección de correo electrónico IMAP, utilice los siguientes ajustes:
 
@@ -29,7 +29,7 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 - **Puerto**: 993
 - **Tipo de seguridad**: SSL/TLS (Acepta todos los certificados)
 
-![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_7.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_7.png" width="40%"/>
 
 -en la sección del **servidor de correo saliente**:
 
@@ -40,7 +40,7 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 - **Nombre de usuario**: completo Dirección de correo electrónico privada
 - **Contraseña**: a esa dirección de correo electrónico privada
 
-![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_8.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_8.png" width="40%"/>
 
 Presione **Hecho en** la esquina superior derecha para terminar la configuración.
 
@@ -59,7 +59,7 @@ Presione **Hecho en** la esquina superior derecha para terminar la configuració
 - **Eliminar el correo del servidor**: seleccione "Nunca" o "Cuando elimine de la basura"
 - **Tipo de seguridad**: SSL/TLS (Acepta todos los certificados)
 
-![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_9.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/email_andr_9.png" width="40%"/>
 
 -en la sección del **servidor de correo saliente**:
 

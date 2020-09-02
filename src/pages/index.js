@@ -13,8 +13,7 @@ const features = [
     imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/content-marketing.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Descubre información relevante sobre la administración de tu WordPress en la base de conocimiento que Conektica preparó para ti.
       </>
     ),
   },
@@ -24,8 +23,7 @@ const features = [
     imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/vende.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Visita nuestros articulos sobre e-commerce para admistrar correctamente tu tienda en linea, recuerda que támbien contamos con video tutoriales de algunos de ellos para hacerte la vida más fácil.
       </>
     ),
   },
@@ -35,8 +33,7 @@ const features = [
     imageUrl: 'https://conektica.com/ads/wp-content/themes/conektica20/assets/img/services/email-marketing.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Configura correctamente los correos corporativos que incluye tu hosting con las guías y video tutoriales preparados para que puedas atender tu negocio desde tu smartphone o tu computadora.
       </>
     ),
   },
@@ -74,7 +71,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/ecommerce-acceso-al-panel-wordpress')}>
+              to={useBaseUrl('docs/ecommerce-administracion-de-la-tienda')}>
               Ver información
             </Link>
           </div>

@@ -11,17 +11,22 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Localice **Ajustes** en la pantalla principal de tu teléfono Android y vaya a la sección **Usuarios y cuentas**.
 
-![Imagen 1](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_1.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_1.png" width="40%"/>
 
 2. De clic en **Agregar cuenta** y seleccione **Correo**.
 
-![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_2.png)
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_2.png" width="40%"/>  
 
-![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_3.png)
+Así como en la siguiente imágen:
+
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_3.png" width="40%"/>
+
 
 3. Introduzca su dirección de correo electrónico privada completa y su respectiva contraseña en los campos correspondientes:
 
-![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_4.jpg)
+
+
+<img alt="" src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_4.jpg" width="40%"/>
 
 Haga clic en **Iniciar sesión**.
 
@@ -33,8 +38,11 @@ Haga clic en **Iniciar sesión**.
 
 Dicho esto, le recomendamos que seleccione **IMAP**: 
 
+<div class="w-40">
+
 ![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_5.jpg)
 
+</div>
 5. Si elige el protocolo **IMAP**, tendrá que proporcionar los siguientes detalles:
 
 Su **dirección de correo electrónico privado**, **nombre de usuario** y **contraseña** ya deben estar rellenados en los campos correspondientes.
@@ -42,7 +50,11 @@ Su **dirección de correo electrónico privado**, **nombre de usuario** y **cont
 - **Puerto**: 993
 - **Tipo de seguridad**: SSL/TLS
 
+<div class="w-40">
+
 ![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_6.jpg)
+
+</div>
 
 Haga clic en **Siguiente**.
 
@@ -53,7 +65,11 @@ Su **dirección de correo electrónico privado**, **nombre de usuario** y **cont
 - **Puerto**: 995
 - **Tipo de seguridad**: SSL/TLS
 
+<div class="w-40">
+
 ![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_7.jpg)
+
+</div>
 
 Haga clic en **Siguiente**.
 
@@ -65,7 +81,11 @@ Su **dirección de correo electrónico privado**, **nombre de usuario** y **cont
 - **Puerto**: 465
 - **Tipo de seguridad**: SSL/TLS
 
+<div class="w-40">
+
 ![Imagen 8](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/private_email_android_8_8.jpg)
+
+</div>
 
 8. Haga clic en Siguiente para terminar la configuración.
 

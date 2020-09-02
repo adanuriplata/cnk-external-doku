@@ -3,6 +3,8 @@ id: mail-outlook-ios
 title: Configuración de la cuenta de correo electrónico privada en Outlook para iOS
 sidebar_label: Outlook para iOS
 ---
+***
+
 Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electrónico privada en Outlook para iOS
 
 **NOTA**: En este artículo, usamos la dirección 1p.web@conektica.com como ejemplo. 
@@ -11,19 +13,17 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Abra Outlook en su dispositivo. 
 
-![Imagen 1](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/OutlookiOS/1.1P.PNG?raw=true)
-
 **NOTA:** Si ya tiene añadida su cuenta de correo electrónico a Outlook, haga clic en el icono **Añadir cuenta**. También puede ir a la opción **Configuración >> Añadir cuenta**: 
 
-![Imagen 2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/1P.png)
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/1P.png" width="40%"/>
 
 2. Escriba la dirección de correo electrónico completa de la cuenta de correo electrónico que desea agregar (estamos usando 1p.web@conektica.com como ejemplo) y presione Agregar cuenta: 
 
-![Imagen 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/2P.PNG)
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/2P.PNG" width="40%"/>
 
 3. A continuación, se le redirigirá a la página **Seleccione su proveedor de correo electrónico** donde debe seleccionar **IMAP**: 
 
-![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/5P.PNG)
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/5P.PNG" width="40%"/>
 
 **IMPORTANTE:** Outlook para iOS no soporta cuentas POP3. 
 
@@ -34,7 +34,7 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 Ahora seleccione **Usar la configuración avanzada:**
 
-![Imagen 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/6P.PNG) 
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/6P.PNG" width="40%"/>
 
 Ahora tendrá que entrar en la configuración del IMAP: 
 
@@ -43,7 +43,7 @@ Ahora tendrá que entrar en la configuración del IMAP:
 - **Nombre de usuario IMAP:** su cuenta de correo electrónico completa (por ejemplo, 1p.web@conektica.com).
 - **Contraseña IMAP:** la contraseña del correo.
 
-![Imagen 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/7P.PNG)
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/7P.PNG" width="40%"/>
 
 **Servidor de correo saliente SMTP:**
 - **Nombre de host SMTP:** conektica.com:465 para SSL/TLS (o mail.conektica.com:26 para SSL).
@@ -52,11 +52,9 @@ Ahora tendrá que entrar en la configuración del IMAP:
 
 Compruebe todos los ajustes y, a continuación, haga clic en **Iniciar sesión:**
 
-![Imagen 7](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/8P.PNG)
+<img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/8P.PNG" width="40%"/>
 
 5. ¡Felicidades, el proceso ha terminado! Ya puedes empezar a administrar tu cuenta de correo electrónico privada en Outlook:
-
-![Imagen 8](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/9P.PNG)
 
 ¡Buenas noticias! Ya está todo listo. 
 

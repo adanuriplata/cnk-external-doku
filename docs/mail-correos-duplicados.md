@@ -23,7 +23,11 @@ Desafortunadamente, incluso la última versión de Outlook no ofrece ninguna her
 
 Es muy sencillo y fácil de usar. Todo lo que necesita es seleccionar una carpeta para comprobar si hay elementos duplicados y hacer clic en el botón **Eliminar elementos duplicados**: 
 
+<div class="w-70">
+
 ![Imagen 1](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_1.png)
+
+</div>
 
 Esta herramienta también puede buscar contactos, tareas, notas y elementos de calendario duplicados. 
 
@@ -38,31 +42,54 @@ Los desarrolladores del plugin ofrecen una versión de prueba gratuita de 30 dí
 
 Este plugin ofrece muchas opciones avanzadas, que no están disponibles en las herramientas gratuitas y que permiten buscar elementos duplicados en la carpeta especificada según los criterios y la prioridad que elijas: 
 
+<div class="w-60">
+
 ![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_2.png)
+
+</div>
 
 Con **Duplicate Email Remover** necesitas elegir las carpetas que te gustaría revisar: 
 
+<div class="w-60">
+
 ![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_3.png)
+
+</div>
 
 Con la versión de pago también es posible establecer una prioridad para las carpetas: 
 
+<div class="w-60">
+
 ![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_4.png)
+
+</div>
 
 Si hay copias de un correo electrónico exacto en todas las carpetas que has seleccionado, el plugin dejará sólo un correo electrónico en la carpeta de mayor prioridad (la primera de la lista) y eliminará los elementos duplicados de las otras carpetas. 
 Por ejemplo, si has seleccionado 3 carpetas para comprobar y los duplicados se encuentran en la 2ª y 3ª carpeta, el correo electrónico se dejará en la 2ª carpeta y se eliminará de la 3ª y así sucesivamente. 
 
 Otra característica importante y útil de este plugin es la posibilidad de elegir una **acción** que se aplicará a los correos electrónicos duplicados: 
 
+<div class="w-60">
+
 ![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_5.png)
+
+</div>
 
 También puede especificar el período de tiempo aplicado a la acción elegida: a los mensajes de correo electrónico recibidos en los últimos días, semanas, meses o en cualquier momento: 
 
+<div class="w-60">
+
 ![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_6.png)
 
+</div>
 
 Además, una opción muy útil es comparar los envíos de correo eligiendo el campo exacto. Se puede utilizar cuando se necesita encontrar correos electrónicos duplicados con pequeñas diferencias, como el nombre del remitente o la fecha y la hora en que se envió el correo electrónico. Por ejemplo, si a menudo recibes varias copias del mismo correo electrónico del mismo remitente, puedes desmarcar algunos campos irrelevantes para que sólo se guarde un correo de este tipo en tu bandeja de entrada y se eliminen todos los duplicados: 
 
+<div class="w-60">
+
 ![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/Mail_duplicates_7.png)
+
+</div>
 
 **NOTA**: el cuerpo del mensaje, el asunto y la dirección de correo electrónico del remitente no pueden ser desmarcados ya que son los campos principales por los que el Removedor de Duplicados detecta los duplicados. 
 

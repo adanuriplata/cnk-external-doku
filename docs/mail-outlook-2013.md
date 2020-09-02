@@ -11,7 +11,11 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Abra **Outlook**, seleccione la pestaña **Archivo** >> **Agregar cuenta**: 
 
+<div class="w-80">
+
 ![Imagen 1](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/13outlook1.png)
+
+</div>
 
 2. Marque la opción **Cuenta de correo electrónico** y rellene los campos correspondientes: 
 
@@ -24,7 +28,11 @@ Comprube no tener espacios en blanco.
 
 3. Una vez que haya completado todos los campos, haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 2](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/peoutlook2013auto.png)
+
+</div>
 
 **NOTA**: si aparece alguna advertencia, ignórenla y proceda. 
 
@@ -34,11 +42,19 @@ Para configurar su cuenta de correo electrónico en Outlook manualmente, complet
 
 1. Marque la opción **Configuración manual o tipos de servidores adicionales** y haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 3](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook13_new.png)
+
+</div>
 
 2. Seleccione **POP** o **IMAP** y haga clic en **Siguiente**:
 
+<div class="w-80">
+
 ![Imagen 4](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/outlook13_new1.png)
+
+</div>
 
 3. Rellene los campos correspondientes: 
 
@@ -50,22 +66,38 @@ Para configurar su cuenta de correo electrónico en Outlook manualmente, complet
 - **Contraseña**: contraseña para esta cuenta de correo
 - **Requiere que se desactive el inicio de sesión mediante la Notificación de Contraseña Segura (SPA)**
 
+<div class="w-80">
+
 ![Imagen 5](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/13outlook44.png)
+
+</div>
 
 4. Una vez hecho, haga clic en **Más ajustes** en la esquina inferior derecha de la ventana. En la pestaña **Servidor de salida**, marque la opción **Mi servidor de salida (SMTP) requiere autenticación** >> **Usar la misma configuración que mi servidor de correo entrante**:
 
+<div class="w-50">
+
 ![Imagen 6](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/13outlook5.png)
+
+</div>
 
 5. En la pestaña **Avanzado**, configure los ajustes del puerto de la siguiente manera: 
 - **IMAP**: puerto 993 para SSL o puerto 143 para TLS
 - **POP3**: puerto 995 para SSL
 - **SMTP**: puerto 465 para SSL o puerto 587 para TLS
 
+<div class="w-50">
+
 ![Imagen 7](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/13outlook6.png)
+
+</div>
 
 6. Una vez que todo esté hecho, haga clic en **OK** para cerrar la ventana y luego en **Siguiente** para probar la conexión con el servidor: 
 
+<div class="w-70">
+
 ![Imagen 8](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/13outlook7.png)
+
+</div>
 
 ¡Buenas noticias! Ya está todo listo. 
 

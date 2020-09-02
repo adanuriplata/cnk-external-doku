@@ -17,15 +17,15 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Abra los **Ajustes** de su dispositivo Android y toque el menú **Cuentas y Respaldo** (dependiendo del teléfono, este menú puede llamarse **Cuentas** o **Nube y Cuentas**): 
 
-![Imagen 1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/1S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/1S.jpeg" width="40%"/>  
 
 2. Seleccione la pestaña **Cuentas**: 
 
-![Imagen 2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/2S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/2S.jpeg" width="40%"/>  
 
 3. En la parte de abajo toque la opción **Añadir cuenta**: 
 
-![Imagen 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/3S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/3S.jpeg" width="40%"/> 
 
 Elija la cuenta de correo electrónico que desea configurar dependiendo de la aplicación de correo electrónico.
 
@@ -35,16 +35,16 @@ Para configurar el correo de la aplicación de Correo predeterminada de Android,
 
 1. Seleccione **Correo**:
 
-![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/4S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/4S.jpeg" width="40%"/> 
 
 2.Introduzca su dirección de correo electrónico privada (1p.web@conektica.com, en nuestro ejemplo) y la contraseña correspondiente en los campos apropiados y haga clic en **Iniciar sesión**:
 
-![Imagen 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/6S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/6S.jpeg" width="40%"/> 
 
 3.Elegir el tipo de protocolo **IMAP** o **POP3**.
 Le recomendamos que seleccione **IMAP**:
 
-![Imagen 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/7S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/7S.jpeg" width="40%"/> 
 
 Si elige el protocolo **IMAP**, tendrá que indicar los siguientes detalles: 
 
@@ -62,7 +62,7 @@ Si elige el protocolo **IMAP**, tendrá que indicar los siguientes detalles:
 
 Haga clic en **Seguir**:
 
-![Imagen 7](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/9S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/9S.jpeg" width="40%"/> 
 
 Si elige el protocolo **POP3**, tendrá que indicar los siguientes detalles: 
 
@@ -80,7 +80,7 @@ Si elige el protocolo **POP3**, tendrá que indicar los siguientes detalles:
 
 Haga clic en **Seguir**:
 
-![Imagen 8](https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Android9.x.x/9.2S.jpeg?raw=true)
+<img src="https://github.com/adanuriplata/cnk-external-doku/blob/master/static/img/Android9.x.x/9.2S.jpeg?raw=true" width="40%"/> 
 
 5. Indique la configuración del **servidor SMTP** de la siguiente manera: 
 
@@ -96,7 +96,7 @@ Haga clic en **Seguir**:
 
 **Contraseña**: contraseña para el buzón 
 
-![Imagen 9](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/10S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/10S.jpeg" width="40%"/> 
 
 6.Haga clic en **Iniciar sesión** para terminar la configuración. 
 
@@ -109,15 +109,15 @@ Para configurar un correo en la aplicación de Gmail, siga estos pasos:
 1.Seleccione **Personal (IMAP)** o **Personal (POP3)** según el tipo de protocolo que quiera configurar. 
 Le recomendamos que seleccione **IMAP**:
 
-![Imagen 10](https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/pe_android9_15.png)
+<img src="https://namecheap.simplekb.com//SiteContents/2-7C22D5236A4543EB827F3BD8936E153E/media/pe_android9_15.png" width="40%"/> 
 
 2.La siguiente pantalla le pedirá que introduzca su dirección de correo electrónico. Escriba su dirección de correo electrónico privada completa (1p.web@conektica.com en nuestro ejemplo): 
 
-![Imagen 11](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/12S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/12S.jpeg" width="40%"/> 
 
 3. Una vez que esté listo, pulse **Seguir** para pasar al siguiente paso. Deberá indicar una contraseña válida para el correo:
 
-![Imagen 12](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/14S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/14S.jpeg" width="40%"/> 
 
 Indique la configuración del servidor entrante con los siguientes detalles: 
 
@@ -127,7 +127,7 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 
 **Servidor**: conektica.com 
 
-![Imagen 13](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/15S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/15S.jpeg" width="40%"/> 
 
 4. De clic en **Seguir** e indique la configuración de **Salida (SMTP)**: 
 
@@ -139,11 +139,11 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 
 **Servidor:** conektica.com 
 
-![Imagen 14](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/16S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/16S.jpeg" width="40%"/> 
 
 5.Una vez que esté listo, de clic en **Seguir** para verificar la configuración de **SMTP** y terminar la configuración de la cuenta: 
 
-![Imagen 15](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/17S.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/17S.jpeg" width="40%"/> 
 
 6.Escriba el nombre de la cuenta para terminar la configuración: 
 
@@ -153,7 +153,7 @@ Indique la configuración del servidor entrante con los siguientes detalles:
 
 Haga clic en **Seguir** para terminar la configuración: 
 
-![Imagen 16](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/18s.jpeg)
+<img src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Android9.x.x/18s.jpeg" width="40%"/> 
 
 ¡Buenas noticias! Ya está todo listo. 
 

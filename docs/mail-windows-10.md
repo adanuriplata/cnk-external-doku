@@ -40,10 +40,13 @@ Tipo de cuenta: IMAP4 o POP3
 
 **Servidor de correo electrónico saliente (SMTP)**: conektica.com. 
 
+<div class="w-40">
+
 ![Imagen 5](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/5C.png)
 
 ![Imagen 6](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/6C.png)
 
+</div>
 Se deben **seleccionar** las siguientes opciones:
 
 - El servidor saliente requiere autenticación.
@@ -51,7 +54,11 @@ Se deben **seleccionar** las siguientes opciones:
 - Requerir SSL para el correo electrónico entrante.
 - Requerir SSL para el correo electrónico saliente.
 
+<div class="w-40">
+
 ![Imagen 7](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Windows10/7C.png)
+
+</div>
 
 Una vez que haya terminado, haga clic en Iniciar sesión.
 

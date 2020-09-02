@@ -11,17 +11,28 @@ Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
 1. Para crear una nueva cuenta, haga clic en la pestaña **Herramientas** > **Cuentas**:
 
+<div class="w-80">
+
 ![Imagen 1](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Outlook%20OS-X/H1.png)
+
+</div>
 
 2. En la ventana emergente, haga clic en **+** en la esquina inferior derecha y seleccione **Nueva cuenta**:
 
+<div class="w-70">
+
 ![Imagen 2](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Outlook%20OS-X/H2.png)
+
+</div>
 
 3. En la siguiente ventana, introduzca la dirección de correo electrónico. 
 Una vez que comience a introducir tu contraseña, aparecerá una lista de configuración: 
 
+<div class="w-70">
+
 ![Imagen 3](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Outlook%20OS-X/H3.png)
 
+</div>
 Los ajustes deben ser los siguientes: 
 
 **Nombre de usuario**: su dirección de correo electrónico 
@@ -50,7 +61,11 @@ Si desea utilizar **SSL para el correo saliente**, establezca el puerto en **465
 6. Al hacer clic en Agregar cuenta, será necesario habilitar la autenticación SMTP. 
 Para ello, haga clic en **Más opciones** y especifique **Usar información del servidor entrante** en el menú desplegable de **Autenticación** y haga clic en Aceptar: 
 
+<div class="w-70">
+
 ![Imagen 4](https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/Outlook%20OS-X/H4.png)
+
+</div>
 
 7. Si aparece asegúrese de que la opción **Usar siempre una contraseña segura** esté desmarcada. 
 
