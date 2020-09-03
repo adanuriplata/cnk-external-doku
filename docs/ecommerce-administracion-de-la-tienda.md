@@ -14,7 +14,7 @@ Una vez nos encontramos dentro del escritorio de WordPress, veremos un panel de 
 **En esta sección encontramos las siguientes opciones:**  
 - Escritorio
 - [Pedidos](/docs/ecommerce-pedidos-woocommerce)
-- [Cupones](/docs/)
+- Cupones
 - [Usuarios](/docs/ecommerce-usuarios-woocommerce)
 - [Ajustes](/docs/ecommerce-ajustes-generales)
 - [Envios](/docs/ecommerce-envios-woocommerce)
