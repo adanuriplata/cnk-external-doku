@@ -32,7 +32,7 @@ module.exports = {
         {
         to: 'docs/ecommerce-administracion-de-la-tienda',
         activeBasePath:'docs/ecommerce-administracion-de-la-tienda' ,
-        label: 'Ecommerce',
+        label: 'Páginas web',
         position: 'left',
          },
         

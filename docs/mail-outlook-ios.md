@@ -11,23 +11,26 @@ Este tutorial le ayudará a agregar o reconfigurar una cuenta de correo electró
 
 Siga estos pasos para agregar una nueva cuenta de correo electrónico:
 
-1. Abra Outlook en su dispositivo. 
+### 1. Abre Outlook en su dispositivo. 
 
 **NOTA:** Si ya tiene añadida su cuenta de correo electrónico a Outlook, haga clic en el icono **Añadir cuenta**. También puede ir a la opción **Configuración >> Añadir cuenta**: 
 
 <img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/1P.png" width="40%"/>
 
-2. Escriba la dirección de correo electrónico completa de la cuenta de correo electrónico que desea agregar (estamos usando 1p.web@conektica.com como ejemplo) y presione Agregar cuenta: 
+### 2. Accede a tu cuenta
+Escriba la dirección de correo electrónico completa de la cuenta de correo electrónico que desea agregar (estamos usando web@conektica.com como ejemplo) y presione Agregar cuenta: 
 
 <img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/2P.PNG" width="40%"/>
 
-3. A continuación, se le redirigirá a la página **Seleccione su proveedor de correo electrónico** donde debe seleccionar **IMAP**: 
+### 3. Selecciona tu proveedor
+ A continuación, se le redirigirá a la página **Seleccione su proveedor de correo electrónico** donde debe seleccionar **IMAP**: 
 
 <img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/5P.PNG" width="40%"/>
 
 **IMPORTANTE:** Outlook para iOS no soporta cuentas POP3. 
 
-4. En la siguiente página, por favor, rellene los detalles requeridos: 
+### 4. Ingresa tus datos  
+- En la siguiente página, por favor, rellene los detalles requeridos: 
 - Contraseña: la contraseña de la cuenta de correo electrónico.
 - Nombre para mostrar: los destinatarios lo verán como el nombre del remitente.
 - Descripción: la descripción de su cuenta de correo electrónico (sólo usted la verá).
@@ -54,7 +57,8 @@ Compruebe todos los ajustes y, a continuación, haga clic en **Iniciar sesión:*
 
 <img alt="" src="https://raw.githubusercontent.com/adanuriplata/cnk-external-doku/master/static/img/OutlookiOS/8P.PNG" width="40%"/>
 
-5. ¡Felicidades, el proceso ha terminado! Ya puedes empezar a administrar tu cuenta de correo electrónico privada en Outlook:
+### 5. Administra tus cuentas
+¡Felicidades, el proceso ha terminado! Ya puedes empezar a administrar tu cuenta de correo electrónico privada en Outlook:
 
 ¡Buenas noticias! Ya está todo listo. 
 

@@ -24,13 +24,15 @@ Interno:[
 
 docsEcommerce:[
   {
-    Ecommerce:[ 'ecommerce-administracion-de-la-tienda','ecommerce-acceso-al-panel-wordpress','ecommerce-crear-productos-woocommerce','ecommerce-usuarios-woocommerce', 'ecommerce-ajustes-generales','ecommerce-subir-productos-csv','ecommerce-pedidos-woocommerce','ecommerce-envios-woocommerce' ,'ecommerce-optimizarImagenes'
+    Ecommerce:[ 'ecommerce-administracion-de-la-tienda','ecommerce-acceso-al-panel-wordpress','ecommerce-crear-productos-woocommerce','ecommerce-usuarios-woocommerce', 'ecommerce-ajustes-generales','ecommerce-subir-productos-csv','ecommerce-pedidos-woocommerce','ecommerce-envios-woocommerce' ,'ecommerce-optimizarImagenes', 'generar-aviso-de-privacidad',
     /*
     Articulos en revision
     'ecommerce-diseño-del-market-woocommerce','ecommerce-introduccion-al-ecommerce','ecommerce-gestion-de-productos','ecommerce-rastrear-productos',
     */
+    
     ],
-  },
+    "Página Informativa":[ 'generar-aviso-de-privacidad']
+  }
 ],
 
 };
